@@ -1,26 +1,29 @@
 {
-"title": "OR--ICU--Ward Recourse Guidance Reproducibility Package",
-"description": "Code, configurations, derived results, source-provenance records, selected-schedule hash audits, and figure-generation scripts supporting the manuscript "When Does Downstream Recourse Guidance Improve Surgical Planning? Evidence Across Candidate-Pool Load Regimes".",
-"creators": [
-{
-"name": "Hu, Jiaming",
-"affiliation": "School of Information Engineering, Shandong Management University"
-},
-{
-"name": "Miao, Cuixia",
-"affiliation": "School of Mathematical Sciences, Qufu Normal University"
-}
-],
-"keywords": [
-"operating room scheduling",
-"intensive care unit",
-"ward capacity",
-"transfer blocking",
-"large neighborhood search",
-"healthcare operations",
-"reproducibility"
-],
-"version": "1.0.2",
-"upload_type": "software",
-"access_right": "open"
+  "creators": [
+    {
+      "name": "Hu, Jiaming",
+      "affiliation": "School of Information Engineering, Shandong Management University",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Miao, Cuixia",
+      "affiliation": "School of Mathematical Sciences, Qufu Normal University",
+      "type": "ProjectMember"
+    }
+  ],
+  "title": "OR-ICU-Ward Recourse Guidance Reproducibility Package",
+  "version": "1.0.2",
+  "access_right": "open",
+  "keywords": [
+    "operating room scheduling",
+    "intensive care unit",
+    "ward capacity",
+    "transfer blocking",
+    "large neighborhood search",
+    "healthcare operations",
+    "reproducibility"
+  ],
+  "license": "bsd-3-clause",
+  "upload_type": "software",
+  "language": "eng"
 }
