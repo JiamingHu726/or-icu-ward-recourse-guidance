@@ -1,0 +1,1 @@
+dataset,n,seed,scenario,case_dir,distribution,initial_icu_occupancy_rate,initial_ward_occupancy_rate,ready_fraction_among_icu,icu_capacity_min,icu_capacity_max,icu_capacity_mean,ward_capacity_min,ward_capacity_max,ward_capacity_mean

@@ -1,0 +1,63 @@
+{
+  "captured_at_utc": "2026-06-25T14:20:54.314230+00:00",
+  "python": {
+    "version": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "E:\\anaconda3\\python.exe"
+  },
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.2",
+    "matplotlib": "3.9.2",
+    "gurobipy": "13.0.1",
+    "PyYAML": "6.0.1",
+    "psutil": "7.0.0"
+  },
+  "solver": {
+    "gurobipy_version": "13.0.1",
+    "gurobi_runtime_version": "13.0.1",
+    "gurobi_build": "v13.0.1rc0",
+    "platform_log_string": "win64 - Windows 11.0 (22631.2)"
+  },
+  "thread_environment": {
+    "OMP_NUM_THREADS": "NOT_SET",
+    "MKL_NUM_THREADS": "NOT_SET",
+    "OPENBLAS_NUM_THREADS": "NOT_SET",
+    "NUMEXPR_NUM_THREADS": "NOT_SET",
+    "GUROBI_THREADS": "NOT_SET"
+  },
+  "hardware": {
+    "system": "Windows",
+    "release": "11",
+    "version": "10.0.22631",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "logical_cpu_count": 16,
+    "physical_cpu_count": 12,
+    "memory_bytes": 16908140544,
+    "windows_processor": {
+      "Name": "12th Gen Intel(R) Core(TM) i5-12500H",
+      "NumberOfCores": 12,
+      "NumberOfLogicalProcessors": 16
+    },
+    "windows_memory": {
+      "TotalPhysicalMemory": 16908140544
+    }
+  },
+  "historical_solver_execution": {
+    "threads_parameter": "NOT_EXPLICITLY_SET",
+    "selection_mode": "Gurobi automatic thread selection",
+    "observed_effective_thread_limit": 16,
+    "evidence": {
+      "normalized_log_path": "results/real_price_calibration/Mannino/n70/price_cal_w2/stdout.txt",
+      "observed_log_lines": [
+        "Gurobi Optimizer version 13.0.1 build v13.0.1rc0 (win64 - Windows 11.0 (22631.2))",
+        "Thread count: 12 physical cores, 16 logical processors, using up to 16 threads"
+      ],
+      "interpretation": "Archived solver logs show that Gurobi selected its automatic thread limit. The code did not explicitly set the Gurobi Threads parameter."
+    }
+  },
+  "recommended_reproduction_configuration": {
+    "threads_parameter": 16,
+    "policy": "For future release reruns, set model.Params.Threads = 16 after every gurobipy.Model construction and verify the generated solver log."
+  }
+}

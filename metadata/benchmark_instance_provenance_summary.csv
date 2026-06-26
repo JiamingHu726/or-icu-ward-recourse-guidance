@@ -1,0 +1,3 @@
+dataset_family,source_injection_mode,source_duration_mode,source_duration_origin,case_count
+GermanOR,duration_only,full_or,"German OR Benchmarking surgical process data collection, 2019",80
+Mannino,duration_only,,SINTEF MSS-Adjusts Surgery Data,80

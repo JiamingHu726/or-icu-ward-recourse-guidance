@@ -1,0 +1,4 @@
+dataset_family,source_title,provider_or_publisher,landing_page,access_date,source_version_or_date,citation_key,raw_data_redistributed,transformation_script,notes
+Mannino,MSS-Adjusts Surgery Data,SINTEF ICT,REPLACE_WITH_OFFICIAL_URL,REPLACE,2010,ManninoNilssenNordlander2010Data,no,src/REPLACE_TRANSFORM_SCRIPT.py,Three years of surgery data from SAB hospital in Oslo
+GermanOR,Ready-to-use surgical process data set,German Operating Room Benchmarking initiative / Health Care Management Science,REPLACE_WITH_OFFICIAL_URL,REPLACE,2024,KorzhenevichZander2024HCMS,no,src/REPLACE_TRANSFORM_SCRIPT.py,Derived study inputs only unless redistribution is permitted
+Synthetic,Study synthetic instance generator,This repository,N/A,REPLACE,REPLACE,N/A,yes,src/shehadeh_style_benchmark_generator_v3.py,Freeze generator parameters and seeds

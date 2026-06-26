@@ -1,0 +1,938 @@
+pool_row,hospital_loc,surgical_specialty,patient_type,ops_code,process_time,fallback_reason,n,seed
+4,Maximum excl. University Clinics,General,inpatient,5-445.41,OR cleaning,fallback_specialty_type,100,7
+5,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-541.0,OR cleaning,fallback_specialty_type,100,7
+11,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.30,OR cleaning,fallback_specialty_type,100,7
+12,Maximum excl. University Clinics,General,inpatient,5-536.45,OR cleaning,fallback_specialty_type,100,7
+13,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,7
+14,Maximum excl. University Clinics,Trauma,inpatient,5-820.02,OR cleaning,fallback_specialty_type,100,7
+17,University Clinics,Trauma,inpatient,5-83B.53,AN induction,fallback_loc_specialty_type,100,7
+17,University Clinics,Trauma,inpatient,5-83B.53,Surgical Lead-in,fallback_loc_specialty_type,100,7
+17,University Clinics,Trauma,inpatient,5-83B.53,Incision-to-closure,fallback_loc_specialty_type,100,7
+17,University Clinics,Trauma,inpatient,5-83B.53,Surgical Lead-out,fallback_loc_specialty_type,100,7
+17,University Clinics,Trauma,inpatient,5-83B.53,AN emergence,fallback_loc_specialty_type,100,7
+17,University Clinics,Trauma,inpatient,5-83B.53,OR cleaning,fallback_specialty_type,100,7
+20,University Clinics,Trauma,inpatient,5-820.00,OR cleaning,fallback_specialty_type,100,7
+21,Maximum excl. University Clinics,General,inpatient,5-381.02,OR cleaning,fallback_specialty_type,100,7
+32,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,AN induction,fallback_loc_specialty_type,100,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-in,fallback_loc_specialty_type,100,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,Incision-to-closure,fallback_loc_specialty_type,100,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-out,fallback_loc_specialty_type,100,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,AN emergence,fallback_loc_specialty_type,100,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,AN induction,fallback_loc_specialty_type,100,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,Surgical Lead-in,fallback_loc_specialty_type,100,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,Incision-to-closure,fallback_loc_specialty_type,100,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,Surgical Lead-out,fallback_loc_specialty_type,100,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,AN emergence,fallback_loc_specialty_type,100,7
+37,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,100,7
+41,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,100,7
+51,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.1,OR cleaning,fallback_specialty_type,100,7
+54,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,100,7
+55,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,100,7
+58,Maximum excl. University Clinics,Otolaryngology,inpatient,5-222.21,OR cleaning,fallback_specialty_type,100,7
+59,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,7
+65,Maximum excl. University Clinics,Trauma,inpatient,5-814.3,OR cleaning,fallback_specialty_type,100,7
+66,Maximum excl. University Clinics,General,inpatient,5-484.51,OR cleaning,fallback_specialty_type,100,7
+67,Maximum excl. University Clinics,Otolaryngology,inpatient,5-282.x,OR cleaning,fallback_specialty_type,100,7
+70,Maximum excl. University Clinics,General,inpatient,5-344.40,OR cleaning,fallback_specialty_type,100,7
+72,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-541.0,OR cleaning,fallback_specialty_type,100,7
+75,Basic & Regular,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,100,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,AN induction,fallback_loc_specialty_type,100,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,Surgical Lead-in,fallback_loc_specialty_type,100,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,Incision-to-closure,fallback_loc_specialty_type,100,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,Surgical Lead-out,fallback_loc_specialty_type,100,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,AN emergence,fallback_loc_specialty_type,100,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,AN induction,fallback_loc_specialty_type,100,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-in,fallback_loc_specialty_type,100,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,Incision-to-closure,fallback_loc_specialty_type,100,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-out,fallback_loc_specialty_type,100,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,AN emergence,fallback_loc_specialty_type,100,7
+88,Maximum excl. University Clinics,Otolaryngology,inpatient,5-218.20,OR cleaning,fallback_specialty_type,100,7
+89,Maximum excl. University Clinics,Otolaryngology,inpatient,5-312.2,OR cleaning,fallback_specialty_type,100,7
+90,Maximum excl. University Clinics,General,inpatient,5-484.51,OR cleaning,fallback_specialty_type,100,7
+95,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,100,7
+98,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.70,OR cleaning,fallback_specialty_type,100,7
+1,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,11
+8,Basic & Regular,Otolaryngology,inpatient,1-630.1,OR cleaning,fallback_specialty_type,100,11
+11,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,100,11
+14,Maximum excl. University Clinics,General,inpatient,5-534.03,OR cleaning,fallback_specialty_type,100,11
+15,Basic & Regular,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,100,11
+21,University Clinics,Trauma,inpatient,5-794.KR,AN induction,fallback_loc_specialty_type,100,11
+21,University Clinics,Trauma,inpatient,5-794.KR,Surgical Lead-in,fallback_loc_specialty_type,100,11
+21,University Clinics,Trauma,inpatient,5-794.KR,Incision-to-closure,fallback_loc_specialty_type,100,11
+21,University Clinics,Trauma,inpatient,5-794.KR,Surgical Lead-out,fallback_loc_specialty_type,100,11
+21,University Clinics,Trauma,inpatient,5-794.KR,AN emergence,fallback_loc_specialty_type,100,11
+21,University Clinics,Trauma,inpatient,5-794.KR,OR cleaning,fallback_specialty_type,100,11
+25,Maximum excl. University Clinics,Otolaryngology,inpatient,5-194.0,OR cleaning,fallback_specialty_type,100,11
+27,Maximum excl. University Clinics,General,inpatient,5-469.20,OR cleaning,fallback_specialty_type,100,11
+30,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,11
+32,Maximum excl. University Clinics,General,inpatient,5-534.35,OR cleaning,fallback_specialty_type,100,11
+35,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,11
+40,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,11
+43,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,100,11
+47,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,100,11
+50,University Clinics,Trauma,inpatient,5-855.19,OR cleaning,fallback_specialty_type,100,11
+51,Maximum excl. University Clinics,Trauma,inpatient,5-916.a1,OR cleaning,fallback_specialty_type,100,11
+57,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,100,11
+58,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-702.1,OR cleaning,fallback_specialty_type,100,11
+64,Basic & Regular,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,100,11
+75,Maximum excl. University Clinics,General,inpatient,5-916.a1,OR cleaning,fallback_specialty_type,100,11
+79,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,11
+80,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.23,OR cleaning,fallback_specialty_type,100,11
+81,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,11
+82,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,11
+84,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,100,11
+85,Maximum excl. University Clinics,Trauma,inpatient,5-800.3g,OR cleaning,fallback_specialty_type,100,11
+86,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.20,OR cleaning,fallback_specialty_type,100,11
+90,Maximum excl. University Clinics,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,100,11
+91,Maximum excl. University Clinics,General,inpatient,5-493.5,OR cleaning,fallback_specialty_type,100,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,AN induction,fallback_loc_specialty_type,100,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,Surgical Lead-in,fallback_loc_specialty_type,100,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,Incision-to-closure,fallback_loc_specialty_type,100,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,Surgical Lead-out,fallback_loc_specialty_type,100,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,AN emergence,fallback_loc_specialty_type,100,11
+1,Maximum excl. University Clinics,Trauma,inpatient,5-793.27,OR cleaning,fallback_specialty_type,100,19
+3,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,100,19
+5,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.01,OR cleaning,fallback_specialty_type,100,19
+9,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.01,OR cleaning,fallback_specialty_type,100,19
+12,Maximum excl. University Clinics,Trauma,inpatient,5-811.0h,OR cleaning,fallback_specialty_type,100,19
+13,Maximum excl. University Clinics,Otolaryngology,inpatient,5-302.5,OR cleaning,fallback_specialty_type,100,19
+17,Maximum excl. University Clinics,Trauma,inpatient,5-795.k0,OR cleaning,fallback_specialty_type,100,19
+18,Maximum excl. University Clinics,Trauma,inpatient,5-820.00,OR cleaning,fallback_specialty_type,100,19
+24,Maximum excl. University Clinics,Trauma,inpatient,5-916.a1,OR cleaning,fallback_specialty_type,100,19
+29,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,100,19
+37,Maximum excl. University Clinics,Trauma,inpatient,5-839.a0,OR cleaning,fallback_specialty_type,100,19
+40,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,19
+41,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,19
+53,Maximum excl. University Clinics,Trauma,inpatient,5-813.4,OR cleaning,fallback_specialty_type,100,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,AN induction,fallback_loc_specialty_type,100,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,Surgical Lead-in,fallback_loc_specialty_type,100,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,Incision-to-closure,fallback_loc_specialty_type,100,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,Surgical Lead-out,fallback_loc_specialty_type,100,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,AN emergence,fallback_loc_specialty_type,100,19
+72,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,19
+76,Maximum excl. University Clinics,General,inpatient,5-061.0,OR cleaning,fallback_specialty_type,100,19
+77,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,100,19
+83,Maximum excl. University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,100,19
+84,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-681.33,OR cleaning,fallback_specialty_type,100,19
+89,University Clinics,Trauma,inpatient,5-794.k7,OR cleaning,fallback_specialty_type,100,19
+90,University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,100,19
+94,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,19
+3,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,23
+8,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,23
+11,Maximum excl. University Clinics,Otolaryngology,inpatient,5-892.05,OR cleaning,fallback_specialty_type,100,23
+12,Maximum excl. University Clinics,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,23
+14,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,100,23
+15,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-651.92,OR cleaning,fallback_specialty_type,100,23
+16,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,100,23
+20,Specialized,Trauma,inpatient,5-790.4F,AN induction,fallback_loc_specialty_type,100,23
+20,Specialized,Trauma,inpatient,5-790.4F,Surgical Lead-in,fallback_loc_specialty_type,100,23
+20,Specialized,Trauma,inpatient,5-790.4F,Incision-to-closure,fallback_loc_specialty_type,100,23
+20,Specialized,Trauma,inpatient,5-790.4F,Surgical Lead-out,fallback_loc_specialty_type,100,23
+20,Specialized,Trauma,inpatient,5-790.4F,AN emergence,fallback_loc_specialty_type,100,23
+28,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,23
+36,Maximum excl. University Clinics,General,inpatient,5-465.1,OR cleaning,fallback_specialty_type,100,23
+40,Maximum excl. University Clinics,Trauma,inpatient,5-822.g1,OR cleaning,fallback_specialty_type,100,23
+43,University Clinics,Trauma,inpatient,5-787.k1,OR cleaning,fallback_specialty_type,100,23
+48,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,100,23
+50,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,100,23
+51,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a1,OR cleaning,fallback_specialty_type,100,23
+52,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,100,23
+53,University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,100,23
+54,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,100,23
+58,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,100,23
+59,Maximum excl. University Clinics,General,inpatient,5-490.1,OR cleaning,fallback_specialty_type,100,23
+60,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,100,23
+67,Basic & Regular,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,100,23
+70,Maximum excl. University Clinics,General,inpatient,5-061.0,OR cleaning,fallback_specialty_type,100,23
+72,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,100,23
+73,Specialized,Trauma,inpatient,5-822.G1,AN induction,fallback_loc_specialty_type,100,23
+73,Specialized,Trauma,inpatient,5-822.G1,Surgical Lead-in,fallback_loc_specialty_type,100,23
+73,Specialized,Trauma,inpatient,5-822.G1,Incision-to-closure,fallback_loc_specialty_type,100,23
+73,Specialized,Trauma,inpatient,5-822.G1,Surgical Lead-out,fallback_loc_specialty_type,100,23
+73,Specialized,Trauma,inpatient,5-822.G1,AN emergence,fallback_loc_specialty_type,100,23
+74,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-690.1,OR cleaning,fallback_specialty_type,100,23
+79,Maximum excl. University Clinics,General,inpatient,5-916.a0,OR cleaning,fallback_specialty_type,100,23
+80,Maximum excl. University Clinics,Trauma,inpatient,5-796.k0,OR cleaning,fallback_specialty_type,100,23
+82,University Clinics,Trauma,inpatient,5-83b.52,OR cleaning,fallback_specialty_type,100,23
+83,Maximum excl. University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,100,23
+88,University Clinics,Trauma,inpatient,5-839.A0,AN induction,fallback_loc_specialty_type,100,23
+88,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-in,fallback_loc_specialty_type,100,23
+88,University Clinics,Trauma,inpatient,5-839.A0,Incision-to-closure,fallback_loc_specialty_type,100,23
+88,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-out,fallback_loc_specialty_type,100,23
+88,University Clinics,Trauma,inpatient,5-839.A0,AN emergence,fallback_loc_specialty_type,100,23
+88,University Clinics,Trauma,inpatient,5-839.A0,OR cleaning,fallback_specialty_type,100,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,AN induction,fallback_loc_specialty_type,100,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,Surgical Lead-in,fallback_loc_specialty_type,100,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,Incision-to-closure,fallback_loc_specialty_type,100,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,Surgical Lead-out,fallback_loc_specialty_type,100,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,AN emergence,fallback_loc_specialty_type,100,23
+96,Maximum excl. University Clinics,General,inpatient,5-541.0,OR cleaning,fallback_specialty_type,100,23
+4,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,100,29
+5,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,29
+7,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,100,29
+8,Maximum excl. University Clinics,Otolaryngology,inpatient,5-222.21,OR cleaning,fallback_specialty_type,100,29
+10,Maximum excl. University Clinics,General,inpatient,5-470.11,OR cleaning,fallback_specialty_type,100,29
+13,University Clinics,Trauma,inpatient,5-797.KT,AN induction,fallback_loc_specialty_type,100,29
+13,University Clinics,Trauma,inpatient,5-797.KT,Surgical Lead-in,fallback_loc_specialty_type,100,29
+13,University Clinics,Trauma,inpatient,5-797.KT,Incision-to-closure,fallback_loc_specialty_type,100,29
+13,University Clinics,Trauma,inpatient,5-797.KT,Surgical Lead-out,fallback_loc_specialty_type,100,29
+13,University Clinics,Trauma,inpatient,5-797.KT,AN emergence,fallback_loc_specialty_type,100,29
+13,University Clinics,Trauma,inpatient,5-797.KT,OR cleaning,fallback_specialty_type,100,29
+18,Maximum excl. University Clinics,Trauma,inpatient,5-793.3r,OR cleaning,fallback_specialty_type,100,29
+22,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.1,OR cleaning,fallback_specialty_type,100,29
+24,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,100,29
+26,University Clinics,Trauma,inpatient,5-787.3R,AN induction,fallback_loc_specialty_type,100,29
+26,University Clinics,Trauma,inpatient,5-787.3R,Surgical Lead-in,fallback_loc_specialty_type,100,29
+26,University Clinics,Trauma,inpatient,5-787.3R,Incision-to-closure,fallback_loc_specialty_type,100,29
+26,University Clinics,Trauma,inpatient,5-787.3R,Surgical Lead-out,fallback_loc_specialty_type,100,29
+26,University Clinics,Trauma,inpatient,5-787.3R,AN emergence,fallback_loc_specialty_type,100,29
+26,University Clinics,Trauma,inpatient,5-787.3R,OR cleaning,fallback_specialty_type,100,29
+29,Maximum excl. University Clinics,General,inpatient,5-455.75,OR cleaning,fallback_specialty_type,100,29
+30,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,100,29
+31,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,100,29
+37,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,29
+38,Maximum excl. University Clinics,Trauma,inpatient,5-790.16,OR cleaning,fallback_specialty_type,100,29
+43,Maximum excl. University Clinics,General,inpatient,5-470.10,OR cleaning,fallback_specialty_type,100,29
+57,University Clinics,Trauma,inpatient,5-839.0,OR cleaning,fallback_specialty_type,100,29
+59,Maximum excl. University Clinics,Trauma,inpatient,5-839.a0,OR cleaning,fallback_specialty_type,100,29
+60,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.32,OR cleaning,fallback_specialty_type,100,29
+64,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.20,OR cleaning,fallback_specialty_type,100,29
+67,University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,100,29
+69,Maximum excl. University Clinics,General,inpatient,5-549.2,OR cleaning,fallback_specialty_type,100,29
+73,Maximum excl. University Clinics,General,inpatient,5-493.6,OR cleaning,fallback_specialty_type,100,29
+82,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-657.62,OR cleaning,fallback_specialty_type,100,29
+83,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,100,29
+85,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,100,29
+86,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,100,29
+87,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.70,OR cleaning,fallback_specialty_type,100,29
+89,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,100,29
+93,Basic & Regular,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,100,29
+100,University Clinics,Trauma,inpatient,5-839.A0,AN induction,fallback_loc_specialty_type,100,29
+100,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-in,fallback_loc_specialty_type,100,29
+100,University Clinics,Trauma,inpatient,5-839.A0,Incision-to-closure,fallback_loc_specialty_type,100,29
+100,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-out,fallback_loc_specialty_type,100,29
+100,University Clinics,Trauma,inpatient,5-839.A0,AN emergence,fallback_loc_specialty_type,100,29
+100,University Clinics,Trauma,inpatient,5-839.A0,OR cleaning,fallback_specialty_type,100,29
+9,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,31
+10,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-651.92,OR cleaning,fallback_specialty_type,100,31
+12,University Clinics,Trauma,inpatient,5-805.7,OR cleaning,fallback_specialty_type,100,31
+14,Maximum excl. University Clinics,General,inpatient,5-061.0,OR cleaning,fallback_specialty_type,100,31
+15,Maximum excl. University Clinics,Trauma,inpatient,5-794.2r,OR cleaning,fallback_specialty_type,100,31
+17,Maximum excl. University Clinics,General,inpatient,5-549.2,OR cleaning,fallback_specialty_type,100,31
+18,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-651.92,OR cleaning,fallback_specialty_type,100,31
+26,University Clinics,Trauma,inpatient,5-839.A1,AN induction,fallback_loc_specialty_type,100,31
+26,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-in,fallback_loc_specialty_type,100,31
+26,University Clinics,Trauma,inpatient,5-839.A1,Incision-to-closure,fallback_loc_specialty_type,100,31
+26,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-out,fallback_loc_specialty_type,100,31
+26,University Clinics,Trauma,inpatient,5-839.A1,AN emergence,fallback_loc_specialty_type,100,31
+26,University Clinics,Trauma,inpatient,5-839.A1,OR cleaning,fallback_specialty_type,100,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,AN induction,fallback_loc_specialty_type,100,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,Surgical Lead-in,fallback_loc_specialty_type,100,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,Incision-to-closure,fallback_loc_specialty_type,100,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,Surgical Lead-out,fallback_loc_specialty_type,100,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,AN emergence,fallback_loc_specialty_type,100,31
+33,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.10,OR cleaning,fallback_specialty_type,100,31
+35,Maximum excl. University Clinics,Trauma,inpatient,5-822.g1,OR cleaning,fallback_specialty_type,100,31
+41,Maximum excl. University Clinics,General,inpatient,5-465.1,OR cleaning,fallback_specialty_type,100,31
+42,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,100,31
+43,Maximum excl. University Clinics,Trauma,inpatient,5-790.4m,OR cleaning,fallback_specialty_type,100,31
+47,University Clinics,Trauma,inpatient,5-032.02,OR cleaning,fallback_specialty_type,100,31
+49,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,100,31
+50,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,100,31
+51,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,31
+54,Maximum excl. University Clinics,Trauma,inpatient,5-794.af,OR cleaning,fallback_specialty_type,100,31
+56,Maximum excl. University Clinics,Trauma,inpatient,5-83b.52,OR cleaning,fallback_specialty_type,100,31
+58,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,31
+65,Maximum excl. University Clinics,Trauma,inpatient,5-787.3r,OR cleaning,fallback_specialty_type,100,31
+68,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-690.2,OR cleaning,fallback_specialty_type,100,31
+70,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.05,OR cleaning,fallback_specialty_type,100,31
+71,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,31
+72,Maximum excl. University Clinics,General,inpatient,5-465.1,OR cleaning,fallback_specialty_type,100,31
+73,Maximum excl. University Clinics,Trauma,inpatient,5-793.14,OR cleaning,fallback_specialty_type,100,31
+76,Maximum excl. University Clinics,General,inpatient,5-524.2,OR cleaning,fallback_specialty_type,100,31
+77,Maximum excl. University Clinics,General,inpatient,5-448.42,OR cleaning,fallback_specialty_type,100,31
+80,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-704.00,OR cleaning,fallback_specialty_type,100,31
+81,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.01,OR cleaning,fallback_specialty_type,100,31
+88,Maximum excl. University Clinics,Trauma,inpatient,5-787.k1,OR cleaning,fallback_specialty_type,100,31
+91,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,100,31
+92,Maximum excl. University Clinics,Otolaryngology,inpatient,5-194.0,OR cleaning,fallback_specialty_type,100,31
+93,Maximum excl. University Clinics,General,inpatient,5-401.00,OR cleaning,fallback_specialty_type,100,31
+5,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-712.0,OR cleaning,fallback_specialty_type,100,37
+6,Maximum excl. University Clinics,Trauma,inpatient,5-822.j1,OR cleaning,fallback_specialty_type,100,37
+7,University Clinics,Trauma,inpatient,5-794.kk,OR cleaning,fallback_specialty_type,100,37
+13,Maximum excl. University Clinics,General,inpatient,5-493.2,OR cleaning,fallback_specialty_type,100,37
+14,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,37
+17,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,100,37
+20,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,100,37
+23,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,100,37
+24,University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,100,37
+27,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a1,OR cleaning,fallback_specialty_type,100,37
+31,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.5,OR cleaning,fallback_specialty_type,100,37
+33,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,100,37
+35,Maximum excl. University Clinics,General,inpatient,5-524.00,OR cleaning,fallback_specialty_type,100,37
+36,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a2,OR cleaning,fallback_specialty_type,100,37
+42,Maximum excl. University Clinics,Otolaryngology,inpatient,5-302.5,OR cleaning,fallback_specialty_type,100,37
+44,Maximum excl. University Clinics,General,inpatient,5-455.72,OR cleaning,fallback_specialty_type,100,37
+46,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.b0,OR cleaning,fallback_specialty_type,100,37
+53,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,37
+57,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,100,37
+58,Maximum excl. University Clinics,General,inpatient,1-694,OR cleaning,fallback_specialty_type,100,37
+62,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,37
+68,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,100,37
+70,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a2,OR cleaning,fallback_specialty_type,100,37
+72,Maximum excl. University Clinics,General,inpatient,5-455.41,OR cleaning,fallback_specialty_type,100,37
+73,Maximum excl. University Clinics,General,inpatient,5-455.41,OR cleaning,fallback_specialty_type,100,37
+74,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,37
+75,Maximum excl. University Clinics,Trauma,inpatient,5-820.01,OR cleaning,fallback_specialty_type,100,37
+76,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,100,37
+79,Maximum excl. University Clinics,General,inpatient,5-536.47,OR cleaning,fallback_specialty_type,100,37
+82,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,37
+87,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.92,OR cleaning,fallback_specialty_type,100,37
+88,Basic & Regular,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,100,37
+94,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,100,37
+95,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,100,37
+100,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,37
+6,Maximum excl. University Clinics,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,100,41
+9,Maximum excl. University Clinics,Otolaryngology,inpatient,1-546,OR cleaning,fallback_specialty_type,100,41
+13,Maximum excl. University Clinics,Otolaryngology,inpatient,1-422.01,OR cleaning,fallback_specialty_type,100,41
+14,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,41
+16,University Clinics,Trauma,inpatient,5-794.26,OR cleaning,fallback_specialty_type,100,41
+21,Maximum excl. University Clinics,General,inpatient,5-535.35,OR cleaning,fallback_specialty_type,100,41
+26,Maximum excl. University Clinics,Otolaryngology,inpatient,1-612,OR cleaning,fallback_specialty_type,100,41
+29,Maximum excl. University Clinics,General,inpatient,5-455.41,OR cleaning,fallback_specialty_type,100,41
+34,University Clinics,Trauma,inpatient,5-839.A1,AN induction,fallback_loc_specialty_type,100,41
+34,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-in,fallback_loc_specialty_type,100,41
+34,University Clinics,Trauma,inpatient,5-839.A1,Incision-to-closure,fallback_loc_specialty_type,100,41
+34,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-out,fallback_loc_specialty_type,100,41
+34,University Clinics,Trauma,inpatient,5-839.A1,AN emergence,fallback_loc_specialty_type,100,41
+34,University Clinics,Trauma,inpatient,5-839.A1,OR cleaning,fallback_specialty_type,100,41
+37,Maximum excl. University Clinics,Otolaryngology,inpatient,5-065.1,OR cleaning,fallback_specialty_type,100,41
+40,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,100,41
+41,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.21,OR cleaning,fallback_specialty_type,100,41
+42,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,41
+48,Basic & Regular,Otolaryngology,inpatient,1-630.1,OR cleaning,fallback_specialty_type,100,41
+50,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,100,41
+51,Maximum excl. University Clinics,Otolaryngology,inpatient,5-403.03,OR cleaning,fallback_specialty_type,100,41
+55,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,41
+59,Maximum excl. University Clinics,General,inpatient,5-897.0,OR cleaning,fallback_specialty_type,100,41
+60,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,100,41
+69,University Clinics,Trauma,inpatient,5-794.2r,OR cleaning,fallback_specialty_type,100,41
+74,Basic & Regular,Otolaryngology,inpatient,5-224.4,OR cleaning,fallback_specialty_type,100,41
+75,Maximum excl. University Clinics,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,100,41
+78,Basic & Regular,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,100,41
+89,Maximum excl. University Clinics,Trauma,inpatient,5-831.2,OR cleaning,fallback_specialty_type,100,41
+94,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.24,OR cleaning,fallback_specialty_type,100,41
+96,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,41
+97,Maximum excl. University Clinics,General,inpatient,5-455.65,OR cleaning,fallback_specialty_type,100,41
+99,Maximum excl. University Clinics,Trauma,inpatient,5-793.3r,OR cleaning,fallback_specialty_type,100,41
+6,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,100,43
+8,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,100,43
+9,Maximum excl. University Clinics,Trauma,inpatient,5-793.1n,OR cleaning,fallback_specialty_type,100,43
+10,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,100,43
+13,Maximum excl. University Clinics,General,inpatient,5-536.46,OR cleaning,fallback_specialty_type,100,43
+14,Maximum excl. University Clinics,General,inpatient,5-536.46,OR cleaning,fallback_specialty_type,100,43
+15,Maximum excl. University Clinics,Trauma,inpatient,5-793.k1,OR cleaning,fallback_specialty_type,100,43
+17,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,100,43
+25,University Clinics,Trauma,inpatient,5-896.1e,OR cleaning,fallback_specialty_type,100,43
+30,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,100,43
+31,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-469.21,OR cleaning,fallback_specialty_type,100,43
+34,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,100,43
+37,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,100,43
+39,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.32,OR cleaning,fallback_specialty_type,100,43
+40,Maximum excl. University Clinics,Trauma,inpatient,5-790.5f,OR cleaning,fallback_specialty_type,100,43
+41,Maximum excl. University Clinics,Otolaryngology,inpatient,5-403.04,OR cleaning,fallback_specialty_type,100,43
+49,Maximum excl. University Clinics,General,inpatient,5-896.1d,OR cleaning,fallback_specialty_type,100,43
+51,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,100,43
+52,Maximum excl. University Clinics,Trauma,inpatient,5-794.2r,OR cleaning,fallback_specialty_type,100,43
+57,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,100,43
+62,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,100,43
+65,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,100,43
+80,Maximum excl. University Clinics,Otolaryngology,inpatient,5-282.0,OR cleaning,fallback_specialty_type,100,43
+81,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,100,43
+90,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,100,43
+92,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,100,43
+94,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.24,OR cleaning,fallback_specialty_type,100,43
+95,Maximum excl. University Clinics,General,inpatient,5-541.0,OR cleaning,fallback_specialty_type,100,43
+96,University Clinics,Trauma,inpatient,5-831.0,OR cleaning,fallback_specialty_type,100,43
+98,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,100,43
+6,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,100,47
+16,Maximum excl. University Clinics,Trauma,inpatient,5-796.k0,OR cleaning,fallback_specialty_type,100,47
+17,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.00,OR cleaning,fallback_specialty_type,100,47
+32,Maximum excl. University Clinics,General,inpatient,5-911.0b,OR cleaning,fallback_specialty_type,100,47
+33,Maximum excl. University Clinics,Trauma,inpatient,5-794.af,OR cleaning,fallback_specialty_type,100,47
+35,University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,100,47
+38,Maximum excl. University Clinics,Trauma,inpatient,5-837.00,OR cleaning,fallback_specialty_type,100,47
+45,Maximum excl. University Clinics,General,inpatient,5-469.21,OR cleaning,fallback_specialty_type,100,47
+49,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,100,47
+57,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,100,47
+58,Maximum excl. University Clinics,Otolaryngology,inpatient,5-181.9,OR cleaning,fallback_specialty_type,100,47
+63,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.92,OR cleaning,fallback_specialty_type,100,47
+66,Maximum excl. University Clinics,Trauma,inpatient,5-812.5,OR cleaning,fallback_specialty_type,100,47
+70,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.2,OR cleaning,fallback_specialty_type,100,47
+73,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,100,47
+76,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,100,47
+83,Maximum excl. University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,100,47
+86,Maximum excl. University Clinics,Trauma,inpatient,5-820.01,OR cleaning,fallback_specialty_type,100,47
+92,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,1-471.2,OR cleaning,fallback_specialty_type,100,47
+97,Maximum excl. University Clinics,Otolaryngology,inpatient,1-420.1,OR cleaning,fallback_specialty_type,100,47
+4,Maximum excl. University Clinics,General,inpatient,5-445.41,OR cleaning,fallback_specialty_type,150,7
+5,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-541.0,OR cleaning,fallback_specialty_type,150,7
+11,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.30,OR cleaning,fallback_specialty_type,150,7
+12,Maximum excl. University Clinics,General,inpatient,5-536.45,OR cleaning,fallback_specialty_type,150,7
+13,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,7
+14,Maximum excl. University Clinics,Trauma,inpatient,5-820.02,OR cleaning,fallback_specialty_type,150,7
+17,University Clinics,Trauma,inpatient,5-83B.53,AN induction,fallback_loc_specialty_type,150,7
+17,University Clinics,Trauma,inpatient,5-83B.53,Surgical Lead-in,fallback_loc_specialty_type,150,7
+17,University Clinics,Trauma,inpatient,5-83B.53,Incision-to-closure,fallback_loc_specialty_type,150,7
+17,University Clinics,Trauma,inpatient,5-83B.53,Surgical Lead-out,fallback_loc_specialty_type,150,7
+17,University Clinics,Trauma,inpatient,5-83B.53,AN emergence,fallback_loc_specialty_type,150,7
+17,University Clinics,Trauma,inpatient,5-83B.53,OR cleaning,fallback_specialty_type,150,7
+20,University Clinics,Trauma,inpatient,5-820.00,OR cleaning,fallback_specialty_type,150,7
+21,Maximum excl. University Clinics,General,inpatient,5-381.02,OR cleaning,fallback_specialty_type,150,7
+32,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,AN induction,fallback_loc_specialty_type,150,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-in,fallback_loc_specialty_type,150,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,Incision-to-closure,fallback_loc_specialty_type,150,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-out,fallback_loc_specialty_type,150,7
+34,Basic & Regular,Trauma,inpatient,5-823.2B,AN emergence,fallback_loc_specialty_type,150,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,AN induction,fallback_loc_specialty_type,150,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,Surgical Lead-in,fallback_loc_specialty_type,150,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,Incision-to-closure,fallback_loc_specialty_type,150,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,Surgical Lead-out,fallback_loc_specialty_type,150,7
+35,Specialized,Otolaryngology,inpatient,5-195.A2,AN emergence,fallback_loc_specialty_type,150,7
+37,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,7
+41,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,7
+51,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.1,OR cleaning,fallback_specialty_type,150,7
+54,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,150,7
+55,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,150,7
+58,Maximum excl. University Clinics,Otolaryngology,inpatient,5-222.21,OR cleaning,fallback_specialty_type,150,7
+59,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,7
+65,Maximum excl. University Clinics,Trauma,inpatient,5-814.3,OR cleaning,fallback_specialty_type,150,7
+66,Maximum excl. University Clinics,General,inpatient,5-484.51,OR cleaning,fallback_specialty_type,150,7
+67,Maximum excl. University Clinics,Otolaryngology,inpatient,5-282.x,OR cleaning,fallback_specialty_type,150,7
+70,Maximum excl. University Clinics,General,inpatient,5-344.40,OR cleaning,fallback_specialty_type,150,7
+72,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-541.0,OR cleaning,fallback_specialty_type,150,7
+75,Basic & Regular,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,AN induction,fallback_loc_specialty_type,150,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,Surgical Lead-in,fallback_loc_specialty_type,150,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,Incision-to-closure,fallback_loc_specialty_type,150,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,Surgical Lead-out,fallback_loc_specialty_type,150,7
+80,Basic & Regular,Trauma,inpatient,5-787.KK,AN emergence,fallback_loc_specialty_type,150,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,AN induction,fallback_loc_specialty_type,150,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-in,fallback_loc_specialty_type,150,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,Incision-to-closure,fallback_loc_specialty_type,150,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,Surgical Lead-out,fallback_loc_specialty_type,150,7
+81,Basic & Regular,Trauma,inpatient,5-823.2B,AN emergence,fallback_loc_specialty_type,150,7
+88,Maximum excl. University Clinics,Otolaryngology,inpatient,5-218.20,OR cleaning,fallback_specialty_type,150,7
+89,Maximum excl. University Clinics,Otolaryngology,inpatient,5-312.2,OR cleaning,fallback_specialty_type,150,7
+90,Maximum excl. University Clinics,General,inpatient,5-484.51,OR cleaning,fallback_specialty_type,150,7
+95,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,150,7
+98,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.70,OR cleaning,fallback_specialty_type,150,7
+103,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,7
+106,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,150,7
+109,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.92,OR cleaning,fallback_specialty_type,150,7
+111,Specialized,Trauma,inpatient,5-796.KV,AN induction,fallback_loc_specialty_type,150,7
+111,Specialized,Trauma,inpatient,5-796.KV,Surgical Lead-in,fallback_loc_specialty_type,150,7
+111,Specialized,Trauma,inpatient,5-796.KV,Incision-to-closure,fallback_loc_specialty_type,150,7
+111,Specialized,Trauma,inpatient,5-796.KV,Surgical Lead-out,fallback_loc_specialty_type,150,7
+111,Specialized,Trauma,inpatient,5-796.KV,AN emergence,fallback_loc_specialty_type,150,7
+118,Basic & Regular,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,7
+119,Maximum excl. University Clinics,Trauma,inpatient,5-790.5f,OR cleaning,fallback_specialty_type,150,7
+126,Maximum excl. University Clinics,General,inpatient,5-448.42,OR cleaning,fallback_specialty_type,150,7
+128,Maximum excl. University Clinics,Otolaryngology,inpatient,5-210.1,OR cleaning,fallback_specialty_type,150,7
+130,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,150,7
+133,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,150,7
+134,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,150,7
+136,Maximum excl. University Clinics,Trauma,inpatient,5-820.02,OR cleaning,fallback_specialty_type,150,7
+137,University Clinics,Trauma,inpatient,5-794.kk,OR cleaning,fallback_specialty_type,150,7
+141,Specialized,Trauma,inpatient,5-790.4F,AN induction,fallback_loc_specialty_type,150,7
+141,Specialized,Trauma,inpatient,5-790.4F,Surgical Lead-in,fallback_loc_specialty_type,150,7
+141,Specialized,Trauma,inpatient,5-790.4F,Incision-to-closure,fallback_loc_specialty_type,150,7
+141,Specialized,Trauma,inpatient,5-790.4F,Surgical Lead-out,fallback_loc_specialty_type,150,7
+141,Specialized,Trauma,inpatient,5-790.4F,AN emergence,fallback_loc_specialty_type,150,7
+143,Maximum excl. University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,150,7
+145,Maximum excl. University Clinics,Otolaryngology,inpatient,5-316.3,OR cleaning,fallback_specialty_type,150,7
+148,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,7
+1,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,11
+8,Basic & Regular,Otolaryngology,inpatient,1-630.1,OR cleaning,fallback_specialty_type,150,11
+11,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,11
+14,Maximum excl. University Clinics,General,inpatient,5-534.03,OR cleaning,fallback_specialty_type,150,11
+15,Basic & Regular,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,150,11
+21,University Clinics,Trauma,inpatient,5-794.KR,AN induction,fallback_loc_specialty_type,150,11
+21,University Clinics,Trauma,inpatient,5-794.KR,Surgical Lead-in,fallback_loc_specialty_type,150,11
+21,University Clinics,Trauma,inpatient,5-794.KR,Incision-to-closure,fallback_loc_specialty_type,150,11
+21,University Clinics,Trauma,inpatient,5-794.KR,Surgical Lead-out,fallback_loc_specialty_type,150,11
+21,University Clinics,Trauma,inpatient,5-794.KR,AN emergence,fallback_loc_specialty_type,150,11
+21,University Clinics,Trauma,inpatient,5-794.KR,OR cleaning,fallback_specialty_type,150,11
+25,Maximum excl. University Clinics,Otolaryngology,inpatient,5-194.0,OR cleaning,fallback_specialty_type,150,11
+27,Maximum excl. University Clinics,General,inpatient,5-469.20,OR cleaning,fallback_specialty_type,150,11
+30,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,11
+32,Maximum excl. University Clinics,General,inpatient,5-534.35,OR cleaning,fallback_specialty_type,150,11
+35,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,11
+40,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,11
+43,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,150,11
+47,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,150,11
+50,University Clinics,Trauma,inpatient,5-855.19,OR cleaning,fallback_specialty_type,150,11
+51,Maximum excl. University Clinics,Trauma,inpatient,5-916.a1,OR cleaning,fallback_specialty_type,150,11
+57,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,11
+58,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-702.1,OR cleaning,fallback_specialty_type,150,11
+64,Basic & Regular,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,150,11
+75,Maximum excl. University Clinics,General,inpatient,5-916.a1,OR cleaning,fallback_specialty_type,150,11
+79,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,11
+80,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.23,OR cleaning,fallback_specialty_type,150,11
+81,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,11
+82,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,11
+84,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,150,11
+85,Maximum excl. University Clinics,Trauma,inpatient,5-800.3g,OR cleaning,fallback_specialty_type,150,11
+86,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.20,OR cleaning,fallback_specialty_type,150,11
+90,Maximum excl. University Clinics,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,150,11
+91,Maximum excl. University Clinics,General,inpatient,5-493.5,OR cleaning,fallback_specialty_type,150,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,AN induction,fallback_loc_specialty_type,150,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,Surgical Lead-in,fallback_loc_specialty_type,150,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,Incision-to-closure,fallback_loc_specialty_type,150,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,Surgical Lead-out,fallback_loc_specialty_type,150,11
+96,Specialized,Otolaryngology,inpatient,5-195.B0,AN emergence,fallback_loc_specialty_type,150,11
+101,Basic & Regular,Trauma,inpatient,5-782.B0,AN induction,fallback_loc_specialty_type,150,11
+101,Basic & Regular,Trauma,inpatient,5-782.B0,Surgical Lead-in,fallback_loc_specialty_type,150,11
+101,Basic & Regular,Trauma,inpatient,5-782.B0,Incision-to-closure,fallback_loc_specialty_type,150,11
+101,Basic & Regular,Trauma,inpatient,5-782.B0,Surgical Lead-out,fallback_loc_specialty_type,150,11
+101,Basic & Regular,Trauma,inpatient,5-782.B0,AN emergence,fallback_loc_specialty_type,150,11
+102,Maximum excl. University Clinics,Trauma,inpatient,5-820.00,OR cleaning,fallback_specialty_type,150,11
+107,Maximum excl. University Clinics,Otolaryngology,inpatient,5-200.4,OR cleaning,fallback_specialty_type,150,11
+109,University Clinics,Trauma,inpatient,5-902.4f,OR cleaning,fallback_specialty_type,150,11
+110,Basic & Regular,Trauma,inpatient,5-782.BE,AN induction,fallback_loc_specialty_type,150,11
+110,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-in,fallback_loc_specialty_type,150,11
+110,Basic & Regular,Trauma,inpatient,5-782.BE,Incision-to-closure,fallback_loc_specialty_type,150,11
+110,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-out,fallback_loc_specialty_type,150,11
+110,Basic & Regular,Trauma,inpatient,5-782.BE,AN emergence,fallback_loc_specialty_type,150,11
+111,Maximum excl. University Clinics,General,inpatient,5-493.2,OR cleaning,fallback_specialty_type,150,11
+112,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.b0,OR cleaning,fallback_specialty_type,150,11
+120,Maximum excl. University Clinics,General,inpatient,5-455.75,OR cleaning,fallback_specialty_type,150,11
+125,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.10,OR cleaning,fallback_specialty_type,150,11
+127,Maximum excl. University Clinics,Otolaryngology,inpatient,5-087.1,OR cleaning,fallback_specialty_type,150,11
+128,Basic & Regular,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,11
+129,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.23,OR cleaning,fallback_specialty_type,150,11
+130,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,11
+141,Basic & Regular,Trauma,inpatient,5-782.BE,AN induction,fallback_loc_specialty_type,150,11
+141,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-in,fallback_loc_specialty_type,150,11
+141,Basic & Regular,Trauma,inpatient,5-782.BE,Incision-to-closure,fallback_loc_specialty_type,150,11
+141,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-out,fallback_loc_specialty_type,150,11
+141,Basic & Regular,Trauma,inpatient,5-782.BE,AN emergence,fallback_loc_specialty_type,150,11
+148,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,11
+150,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,11
+1,Maximum excl. University Clinics,Trauma,inpatient,5-793.27,OR cleaning,fallback_specialty_type,150,19
+3,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,150,19
+5,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.01,OR cleaning,fallback_specialty_type,150,19
+9,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.01,OR cleaning,fallback_specialty_type,150,19
+12,Maximum excl. University Clinics,Trauma,inpatient,5-811.0h,OR cleaning,fallback_specialty_type,150,19
+13,Maximum excl. University Clinics,Otolaryngology,inpatient,5-302.5,OR cleaning,fallback_specialty_type,150,19
+17,Maximum excl. University Clinics,Trauma,inpatient,5-795.k0,OR cleaning,fallback_specialty_type,150,19
+18,Maximum excl. University Clinics,Trauma,inpatient,5-820.00,OR cleaning,fallback_specialty_type,150,19
+24,Maximum excl. University Clinics,Trauma,inpatient,5-916.a1,OR cleaning,fallback_specialty_type,150,19
+29,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,19
+37,Maximum excl. University Clinics,Trauma,inpatient,5-839.a0,OR cleaning,fallback_specialty_type,150,19
+40,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,19
+41,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,19
+53,Maximum excl. University Clinics,Trauma,inpatient,5-813.4,OR cleaning,fallback_specialty_type,150,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,AN induction,fallback_loc_specialty_type,150,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,Surgical Lead-in,fallback_loc_specialty_type,150,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,Incision-to-closure,fallback_loc_specialty_type,150,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,Surgical Lead-out,fallback_loc_specialty_type,150,19
+68,Specialized,Otolaryngology,inpatient,1-422.X,AN emergence,fallback_loc_specialty_type,150,19
+72,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,19
+76,Maximum excl. University Clinics,General,inpatient,5-061.0,OR cleaning,fallback_specialty_type,150,19
+77,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,150,19
+83,Maximum excl. University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,150,19
+84,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-681.33,OR cleaning,fallback_specialty_type,150,19
+89,University Clinics,Trauma,inpatient,5-794.k7,OR cleaning,fallback_specialty_type,150,19
+90,University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,150,19
+94,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,19
+101,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-661.62,OR cleaning,fallback_specialty_type,150,19
+107,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,150,19
+113,University Clinics,Trauma,inpatient,5-794.0R,AN induction,fallback_loc_specialty_type,150,19
+113,University Clinics,Trauma,inpatient,5-794.0R,Surgical Lead-in,fallback_loc_specialty_type,150,19
+113,University Clinics,Trauma,inpatient,5-794.0R,Incision-to-closure,fallback_loc_specialty_type,150,19
+113,University Clinics,Trauma,inpatient,5-794.0R,Surgical Lead-out,fallback_loc_specialty_type,150,19
+113,University Clinics,Trauma,inpatient,5-794.0R,AN emergence,fallback_loc_specialty_type,150,19
+113,University Clinics,Trauma,inpatient,5-794.0R,OR cleaning,fallback_specialty_type,150,19
+118,Maximum excl. University Clinics,General,inpatient,5-466.2,OR cleaning,fallback_specialty_type,150,19
+122,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,150,19
+126,Maximum excl. University Clinics,General,inpatient,5-865.6,OR cleaning,fallback_specialty_type,150,19
+129,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,19
+131,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,19
+135,Maximum excl. University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,150,19
+138,Maximum excl. University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,150,19
+144,Basic & Regular,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,19
+145,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.90,OR cleaning,fallback_specialty_type,150,19
+3,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,23
+8,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,23
+11,Maximum excl. University Clinics,Otolaryngology,inpatient,5-892.05,OR cleaning,fallback_specialty_type,150,23
+12,Maximum excl. University Clinics,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,23
+14,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,150,23
+15,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-651.92,OR cleaning,fallback_specialty_type,150,23
+16,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,150,23
+20,Specialized,Trauma,inpatient,5-790.4F,AN induction,fallback_loc_specialty_type,150,23
+20,Specialized,Trauma,inpatient,5-790.4F,Surgical Lead-in,fallback_loc_specialty_type,150,23
+20,Specialized,Trauma,inpatient,5-790.4F,Incision-to-closure,fallback_loc_specialty_type,150,23
+20,Specialized,Trauma,inpatient,5-790.4F,Surgical Lead-out,fallback_loc_specialty_type,150,23
+20,Specialized,Trauma,inpatient,5-790.4F,AN emergence,fallback_loc_specialty_type,150,23
+28,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,23
+36,Maximum excl. University Clinics,General,inpatient,5-465.1,OR cleaning,fallback_specialty_type,150,23
+40,Maximum excl. University Clinics,Trauma,inpatient,5-822.g1,OR cleaning,fallback_specialty_type,150,23
+43,University Clinics,Trauma,inpatient,5-787.k1,OR cleaning,fallback_specialty_type,150,23
+48,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,150,23
+50,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,150,23
+51,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a1,OR cleaning,fallback_specialty_type,150,23
+52,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,150,23
+53,University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,150,23
+54,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,23
+58,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,150,23
+59,Maximum excl. University Clinics,General,inpatient,5-490.1,OR cleaning,fallback_specialty_type,150,23
+60,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,23
+67,Basic & Regular,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,23
+70,Maximum excl. University Clinics,General,inpatient,5-061.0,OR cleaning,fallback_specialty_type,150,23
+72,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,23
+73,Specialized,Trauma,inpatient,5-822.G1,AN induction,fallback_loc_specialty_type,150,23
+73,Specialized,Trauma,inpatient,5-822.G1,Surgical Lead-in,fallback_loc_specialty_type,150,23
+73,Specialized,Trauma,inpatient,5-822.G1,Incision-to-closure,fallback_loc_specialty_type,150,23
+73,Specialized,Trauma,inpatient,5-822.G1,Surgical Lead-out,fallback_loc_specialty_type,150,23
+73,Specialized,Trauma,inpatient,5-822.G1,AN emergence,fallback_loc_specialty_type,150,23
+74,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-690.1,OR cleaning,fallback_specialty_type,150,23
+79,Maximum excl. University Clinics,General,inpatient,5-916.a0,OR cleaning,fallback_specialty_type,150,23
+80,Maximum excl. University Clinics,Trauma,inpatient,5-796.k0,OR cleaning,fallback_specialty_type,150,23
+82,University Clinics,Trauma,inpatient,5-83b.52,OR cleaning,fallback_specialty_type,150,23
+83,Maximum excl. University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,150,23
+88,University Clinics,Trauma,inpatient,5-839.A0,AN induction,fallback_loc_specialty_type,150,23
+88,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-in,fallback_loc_specialty_type,150,23
+88,University Clinics,Trauma,inpatient,5-839.A0,Incision-to-closure,fallback_loc_specialty_type,150,23
+88,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-out,fallback_loc_specialty_type,150,23
+88,University Clinics,Trauma,inpatient,5-839.A0,AN emergence,fallback_loc_specialty_type,150,23
+88,University Clinics,Trauma,inpatient,5-839.A0,OR cleaning,fallback_specialty_type,150,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,AN induction,fallback_loc_specialty_type,150,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,Surgical Lead-in,fallback_loc_specialty_type,150,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,Incision-to-closure,fallback_loc_specialty_type,150,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,Surgical Lead-out,fallback_loc_specialty_type,150,23
+89,Basic & Regular,Trauma,inpatient,5-782.B0,AN emergence,fallback_loc_specialty_type,150,23
+96,Maximum excl. University Clinics,General,inpatient,5-541.0,OR cleaning,fallback_specialty_type,150,23
+105,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-593.20,OR cleaning,fallback_specialty_type,150,23
+108,Maximum excl. University Clinics,Trauma,inpatient,5-820.00,OR cleaning,fallback_specialty_type,150,23
+109,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,23
+114,Maximum excl. University Clinics,General,inpatient,5-897.0,OR cleaning,fallback_specialty_type,150,23
+118,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,23
+124,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,150,23
+126,University Clinics,Trauma,inpatient,5-794.04,OR cleaning,fallback_specialty_type,150,23
+133,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,23
+137,Maximum excl. University Clinics,General,inpatient,5-063.0,OR cleaning,fallback_specialty_type,150,23
+148,Basic & Regular,Trauma,inpatient,5-782.BE,AN induction,fallback_loc_specialty_type,150,23
+148,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-in,fallback_loc_specialty_type,150,23
+148,Basic & Regular,Trauma,inpatient,5-782.BE,Incision-to-closure,fallback_loc_specialty_type,150,23
+148,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-out,fallback_loc_specialty_type,150,23
+148,Basic & Regular,Trauma,inpatient,5-782.BE,AN emergence,fallback_loc_specialty_type,150,23
+4,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,150,29
+5,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,29
+7,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,29
+8,Maximum excl. University Clinics,Otolaryngology,inpatient,5-222.21,OR cleaning,fallback_specialty_type,150,29
+10,Maximum excl. University Clinics,General,inpatient,5-470.11,OR cleaning,fallback_specialty_type,150,29
+13,University Clinics,Trauma,inpatient,5-797.KT,AN induction,fallback_loc_specialty_type,150,29
+13,University Clinics,Trauma,inpatient,5-797.KT,Surgical Lead-in,fallback_loc_specialty_type,150,29
+13,University Clinics,Trauma,inpatient,5-797.KT,Incision-to-closure,fallback_loc_specialty_type,150,29
+13,University Clinics,Trauma,inpatient,5-797.KT,Surgical Lead-out,fallback_loc_specialty_type,150,29
+13,University Clinics,Trauma,inpatient,5-797.KT,AN emergence,fallback_loc_specialty_type,150,29
+13,University Clinics,Trauma,inpatient,5-797.KT,OR cleaning,fallback_specialty_type,150,29
+18,Maximum excl. University Clinics,Trauma,inpatient,5-793.3r,OR cleaning,fallback_specialty_type,150,29
+22,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.1,OR cleaning,fallback_specialty_type,150,29
+24,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,150,29
+26,University Clinics,Trauma,inpatient,5-787.3R,AN induction,fallback_loc_specialty_type,150,29
+26,University Clinics,Trauma,inpatient,5-787.3R,Surgical Lead-in,fallback_loc_specialty_type,150,29
+26,University Clinics,Trauma,inpatient,5-787.3R,Incision-to-closure,fallback_loc_specialty_type,150,29
+26,University Clinics,Trauma,inpatient,5-787.3R,Surgical Lead-out,fallback_loc_specialty_type,150,29
+26,University Clinics,Trauma,inpatient,5-787.3R,AN emergence,fallback_loc_specialty_type,150,29
+26,University Clinics,Trauma,inpatient,5-787.3R,OR cleaning,fallback_specialty_type,150,29
+29,Maximum excl. University Clinics,General,inpatient,5-455.75,OR cleaning,fallback_specialty_type,150,29
+30,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,29
+31,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,150,29
+37,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,29
+38,Maximum excl. University Clinics,Trauma,inpatient,5-790.16,OR cleaning,fallback_specialty_type,150,29
+43,Maximum excl. University Clinics,General,inpatient,5-470.10,OR cleaning,fallback_specialty_type,150,29
+57,University Clinics,Trauma,inpatient,5-839.0,OR cleaning,fallback_specialty_type,150,29
+59,Maximum excl. University Clinics,Trauma,inpatient,5-839.a0,OR cleaning,fallback_specialty_type,150,29
+60,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.32,OR cleaning,fallback_specialty_type,150,29
+64,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.20,OR cleaning,fallback_specialty_type,150,29
+67,University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,150,29
+69,Maximum excl. University Clinics,General,inpatient,5-549.2,OR cleaning,fallback_specialty_type,150,29
+73,Maximum excl. University Clinics,General,inpatient,5-493.6,OR cleaning,fallback_specialty_type,150,29
+82,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-657.62,OR cleaning,fallback_specialty_type,150,29
+83,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,150,29
+85,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,150,29
+86,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,150,29
+87,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.70,OR cleaning,fallback_specialty_type,150,29
+89,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,150,29
+93,Basic & Regular,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,150,29
+100,University Clinics,Trauma,inpatient,5-839.A0,AN induction,fallback_loc_specialty_type,150,29
+100,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-in,fallback_loc_specialty_type,150,29
+100,University Clinics,Trauma,inpatient,5-839.A0,Incision-to-closure,fallback_loc_specialty_type,150,29
+100,University Clinics,Trauma,inpatient,5-839.A0,Surgical Lead-out,fallback_loc_specialty_type,150,29
+100,University Clinics,Trauma,inpatient,5-839.A0,AN emergence,fallback_loc_specialty_type,150,29
+100,University Clinics,Trauma,inpatient,5-839.A0,OR cleaning,fallback_specialty_type,150,29
+103,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,29
+117,Maximum excl. University Clinics,General,inpatient,5-896.1f,OR cleaning,fallback_specialty_type,150,29
+120,Maximum excl. University Clinics,General,inpatient,5-469.20,OR cleaning,fallback_specialty_type,150,29
+130,University Clinics,Trauma,inpatient,5-794.KR,AN induction,fallback_loc_specialty_type,150,29
+130,University Clinics,Trauma,inpatient,5-794.KR,Surgical Lead-in,fallback_loc_specialty_type,150,29
+130,University Clinics,Trauma,inpatient,5-794.KR,Incision-to-closure,fallback_loc_specialty_type,150,29
+130,University Clinics,Trauma,inpatient,5-794.KR,Surgical Lead-out,fallback_loc_specialty_type,150,29
+130,University Clinics,Trauma,inpatient,5-794.KR,AN emergence,fallback_loc_specialty_type,150,29
+130,University Clinics,Trauma,inpatient,5-794.KR,OR cleaning,fallback_specialty_type,150,29
+139,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,29
+140,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,150,29
+141,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,150,29
+142,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,29
+146,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,150,29
+150,Maximum excl. University Clinics,General,inpatient,5-063.0,OR cleaning,fallback_specialty_type,150,29
+9,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,31
+10,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-651.92,OR cleaning,fallback_specialty_type,150,31
+12,University Clinics,Trauma,inpatient,5-805.7,OR cleaning,fallback_specialty_type,150,31
+14,Maximum excl. University Clinics,General,inpatient,5-061.0,OR cleaning,fallback_specialty_type,150,31
+15,Maximum excl. University Clinics,Trauma,inpatient,5-794.2r,OR cleaning,fallback_specialty_type,150,31
+17,Maximum excl. University Clinics,General,inpatient,5-549.2,OR cleaning,fallback_specialty_type,150,31
+18,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-651.92,OR cleaning,fallback_specialty_type,150,31
+26,University Clinics,Trauma,inpatient,5-839.A1,AN induction,fallback_loc_specialty_type,150,31
+26,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-in,fallback_loc_specialty_type,150,31
+26,University Clinics,Trauma,inpatient,5-839.A1,Incision-to-closure,fallback_loc_specialty_type,150,31
+26,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-out,fallback_loc_specialty_type,150,31
+26,University Clinics,Trauma,inpatient,5-839.A1,AN emergence,fallback_loc_specialty_type,150,31
+26,University Clinics,Trauma,inpatient,5-839.A1,OR cleaning,fallback_specialty_type,150,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,AN induction,fallback_loc_specialty_type,150,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,Surgical Lead-in,fallback_loc_specialty_type,150,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,Incision-to-closure,fallback_loc_specialty_type,150,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,Surgical Lead-out,fallback_loc_specialty_type,150,31
+29,Specialized,Otolaryngology,inpatient,5-195.B2,AN emergence,fallback_loc_specialty_type,150,31
+33,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.10,OR cleaning,fallback_specialty_type,150,31
+35,Maximum excl. University Clinics,Trauma,inpatient,5-822.g1,OR cleaning,fallback_specialty_type,150,31
+41,Maximum excl. University Clinics,General,inpatient,5-465.1,OR cleaning,fallback_specialty_type,150,31
+42,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,31
+43,Maximum excl. University Clinics,Trauma,inpatient,5-790.4m,OR cleaning,fallback_specialty_type,150,31
+47,University Clinics,Trauma,inpatient,5-032.02,OR cleaning,fallback_specialty_type,150,31
+49,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,150,31
+50,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,150,31
+51,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,31
+54,Maximum excl. University Clinics,Trauma,inpatient,5-794.af,OR cleaning,fallback_specialty_type,150,31
+56,Maximum excl. University Clinics,Trauma,inpatient,5-83b.52,OR cleaning,fallback_specialty_type,150,31
+58,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,31
+65,Maximum excl. University Clinics,Trauma,inpatient,5-787.3r,OR cleaning,fallback_specialty_type,150,31
+68,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-690.2,OR cleaning,fallback_specialty_type,150,31
+70,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.05,OR cleaning,fallback_specialty_type,150,31
+71,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,31
+72,Maximum excl. University Clinics,General,inpatient,5-465.1,OR cleaning,fallback_specialty_type,150,31
+73,Maximum excl. University Clinics,Trauma,inpatient,5-793.14,OR cleaning,fallback_specialty_type,150,31
+76,Maximum excl. University Clinics,General,inpatient,5-524.2,OR cleaning,fallback_specialty_type,150,31
+77,Maximum excl. University Clinics,General,inpatient,5-448.42,OR cleaning,fallback_specialty_type,150,31
+80,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-704.00,OR cleaning,fallback_specialty_type,150,31
+81,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.01,OR cleaning,fallback_specialty_type,150,31
+88,Maximum excl. University Clinics,Trauma,inpatient,5-787.k1,OR cleaning,fallback_specialty_type,150,31
+91,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,150,31
+92,Maximum excl. University Clinics,Otolaryngology,inpatient,5-194.0,OR cleaning,fallback_specialty_type,150,31
+93,Maximum excl. University Clinics,General,inpatient,5-401.00,OR cleaning,fallback_specialty_type,150,31
+104,Basic & Regular,Otolaryngology,inpatient,5-218.20,OR cleaning,fallback_specialty_type,150,31
+108,Maximum excl. University Clinics,General,inpatient,5-484.52,OR cleaning,fallback_specialty_type,150,31
+111,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.05,OR cleaning,fallback_specialty_type,150,31
+113,Maximum excl. University Clinics,General,inpatient,5-897.0,OR cleaning,fallback_specialty_type,150,31
+124,Maximum excl. University Clinics,Otolaryngology,inpatient,5-262.04,OR cleaning,fallback_specialty_type,150,31
+125,Maximum excl. University Clinics,Trauma,inpatient,5-799.3,OR cleaning,fallback_specialty_type,150,31
+129,Maximum excl. University Clinics,General,inpatient,5-470.11,OR cleaning,fallback_specialty_type,150,31
+130,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,31
+132,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,150,31
+135,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.10,OR cleaning,fallback_specialty_type,150,31
+139,Maximum excl. University Clinics,Otolaryngology,inpatient,1-611.0,OR cleaning,fallback_specialty_type,150,31
+147,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,31
+149,University Clinics,Trauma,inpatient,5-790.0D,AN induction,fallback_loc_specialty_type,150,31
+149,University Clinics,Trauma,inpatient,5-790.0D,Surgical Lead-in,fallback_loc_specialty_type,150,31
+149,University Clinics,Trauma,inpatient,5-790.0D,Incision-to-closure,fallback_loc_specialty_type,150,31
+149,University Clinics,Trauma,inpatient,5-790.0D,Surgical Lead-out,fallback_loc_specialty_type,150,31
+149,University Clinics,Trauma,inpatient,5-790.0D,AN emergence,fallback_loc_specialty_type,150,31
+149,University Clinics,Trauma,inpatient,5-790.0D,OR cleaning,fallback_specialty_type,150,31
+5,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-712.0,OR cleaning,fallback_specialty_type,150,37
+6,Maximum excl. University Clinics,Trauma,inpatient,5-822.j1,OR cleaning,fallback_specialty_type,150,37
+7,University Clinics,Trauma,inpatient,5-794.kk,OR cleaning,fallback_specialty_type,150,37
+13,Maximum excl. University Clinics,General,inpatient,5-493.2,OR cleaning,fallback_specialty_type,150,37
+14,Basic & Regular,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,37
+17,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,150,37
+20,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,37
+23,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,150,37
+24,University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,150,37
+27,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a1,OR cleaning,fallback_specialty_type,150,37
+31,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.5,OR cleaning,fallback_specialty_type,150,37
+33,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,150,37
+35,Maximum excl. University Clinics,General,inpatient,5-524.00,OR cleaning,fallback_specialty_type,150,37
+36,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a2,OR cleaning,fallback_specialty_type,150,37
+42,Maximum excl. University Clinics,Otolaryngology,inpatient,5-302.5,OR cleaning,fallback_specialty_type,150,37
+44,Maximum excl. University Clinics,General,inpatient,5-455.72,OR cleaning,fallback_specialty_type,150,37
+46,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.b0,OR cleaning,fallback_specialty_type,150,37
+53,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,37
+57,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,150,37
+58,Maximum excl. University Clinics,General,inpatient,1-694,OR cleaning,fallback_specialty_type,150,37
+62,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,37
+68,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,150,37
+70,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a2,OR cleaning,fallback_specialty_type,150,37
+72,Maximum excl. University Clinics,General,inpatient,5-455.41,OR cleaning,fallback_specialty_type,150,37
+73,Maximum excl. University Clinics,General,inpatient,5-455.41,OR cleaning,fallback_specialty_type,150,37
+74,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,37
+75,Maximum excl. University Clinics,Trauma,inpatient,5-820.01,OR cleaning,fallback_specialty_type,150,37
+76,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,150,37
+79,Maximum excl. University Clinics,General,inpatient,5-536.47,OR cleaning,fallback_specialty_type,150,37
+82,University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,37
+87,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.92,OR cleaning,fallback_specialty_type,150,37
+88,Basic & Regular,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,150,37
+94,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,150,37
+95,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,37
+100,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,37
+103,Maximum excl. University Clinics,Trauma,inpatient,5-896.1e,OR cleaning,fallback_specialty_type,150,37
+104,Maximum excl. University Clinics,Otolaryngology,inpatient,5-224.63,OR cleaning,fallback_specialty_type,150,37
+115,Maximum excl. University Clinics,General,inpatient,5-063.0,OR cleaning,fallback_specialty_type,150,37
+117,Maximum excl. University Clinics,General,inpatient,5-066.0,OR cleaning,fallback_specialty_type,150,37
+118,Maximum excl. University Clinics,Otolaryngology,inpatient,5-194.1,OR cleaning,fallback_specialty_type,150,37
+119,Maximum excl. University Clinics,General,inpatient,5-455.75,OR cleaning,fallback_specialty_type,150,37
+131,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-872.1,OR cleaning,fallback_specialty_type,150,37
+133,Maximum excl. University Clinics,Trauma,inpatient,5-813.4,OR cleaning,fallback_specialty_type,150,37
+134,Maximum excl. University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,150,37
+139,Maximum excl. University Clinics,General,inpatient,5-511.01,OR cleaning,fallback_specialty_type,150,37
+140,University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,150,37
+145,Maximum excl. University Clinics,General,inpatient,5-470.10,OR cleaning,fallback_specialty_type,150,37
+148,Basic & Regular,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,37
+6,Maximum excl. University Clinics,Otolaryngology,inpatient,1-620.10,OR cleaning,fallback_specialty_type,150,41
+9,Maximum excl. University Clinics,Otolaryngology,inpatient,1-546,OR cleaning,fallback_specialty_type,150,41
+13,Maximum excl. University Clinics,Otolaryngology,inpatient,1-422.01,OR cleaning,fallback_specialty_type,150,41
+14,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,41
+16,University Clinics,Trauma,inpatient,5-794.26,OR cleaning,fallback_specialty_type,150,41
+21,Maximum excl. University Clinics,General,inpatient,5-535.35,OR cleaning,fallback_specialty_type,150,41
+26,Maximum excl. University Clinics,Otolaryngology,inpatient,1-612,OR cleaning,fallback_specialty_type,150,41
+29,Maximum excl. University Clinics,General,inpatient,5-455.41,OR cleaning,fallback_specialty_type,150,41
+34,University Clinics,Trauma,inpatient,5-839.A1,AN induction,fallback_loc_specialty_type,150,41
+34,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-in,fallback_loc_specialty_type,150,41
+34,University Clinics,Trauma,inpatient,5-839.A1,Incision-to-closure,fallback_loc_specialty_type,150,41
+34,University Clinics,Trauma,inpatient,5-839.A1,Surgical Lead-out,fallback_loc_specialty_type,150,41
+34,University Clinics,Trauma,inpatient,5-839.A1,AN emergence,fallback_loc_specialty_type,150,41
+34,University Clinics,Trauma,inpatient,5-839.A1,OR cleaning,fallback_specialty_type,150,41
+37,Maximum excl. University Clinics,Otolaryngology,inpatient,5-065.1,OR cleaning,fallback_specialty_type,150,41
+40,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,150,41
+41,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.21,OR cleaning,fallback_specialty_type,150,41
+42,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,41
+48,Basic & Regular,Otolaryngology,inpatient,1-630.1,OR cleaning,fallback_specialty_type,150,41
+50,Maximum excl. University Clinics,Otolaryngology,inpatient,5-214.6,OR cleaning,fallback_specialty_type,150,41
+51,Maximum excl. University Clinics,Otolaryngology,inpatient,5-403.03,OR cleaning,fallback_specialty_type,150,41
+55,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,41
+59,Maximum excl. University Clinics,General,inpatient,5-897.0,OR cleaning,fallback_specialty_type,150,41
+60,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,41
+69,University Clinics,Trauma,inpatient,5-794.2r,OR cleaning,fallback_specialty_type,150,41
+74,Basic & Regular,Otolaryngology,inpatient,5-224.4,OR cleaning,fallback_specialty_type,150,41
+75,Maximum excl. University Clinics,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,150,41
+78,Basic & Regular,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,150,41
+89,Maximum excl. University Clinics,Trauma,inpatient,5-831.2,OR cleaning,fallback_specialty_type,150,41
+94,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.24,OR cleaning,fallback_specialty_type,150,41
+96,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,41
+97,Maximum excl. University Clinics,General,inpatient,5-455.65,OR cleaning,fallback_specialty_type,150,41
+99,Maximum excl. University Clinics,Trauma,inpatient,5-793.3r,OR cleaning,fallback_specialty_type,150,41
+101,University Clinics,Trauma,inpatient,5-794.kn,OR cleaning,fallback_specialty_type,150,41
+105,Maximum excl. University Clinics,Trauma,inpatient,5-869.2,OR cleaning,fallback_specialty_type,150,41
+107,Basic & Regular,Otolaryngology,inpatient,5-285.0,OR cleaning,fallback_specialty_type,150,41
+108,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,41
+114,Maximum excl. University Clinics,Trauma,inpatient,5-799.3,OR cleaning,fallback_specialty_type,150,41
+115,Maximum excl. University Clinics,Trauma,inpatient,5-855.02,OR cleaning,fallback_specialty_type,150,41
+117,Maximum excl. University Clinics,General,inpatient,5-541.1,OR cleaning,fallback_specialty_type,150,41
+118,Maximum excl. University Clinics,Otolaryngology,inpatient,5-402.0,OR cleaning,fallback_specialty_type,150,41
+121,Maximum excl. University Clinics,Otolaryngology,inpatient,5-194.1,OR cleaning,fallback_specialty_type,150,41
+123,University Clinics,Trauma,inpatient,5-812.7,OR cleaning,fallback_specialty_type,150,41
+127,Maximum excl. University Clinics,Trauma,inpatient,5-83b.53,OR cleaning,fallback_specialty_type,150,41
+128,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,41
+131,Maximum excl. University Clinics,General,inpatient,5-916.a3,OR cleaning,fallback_specialty_type,150,41
+140,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,150,41
+142,Maximum excl. University Clinics,Otolaryngology,inpatient,5-403.00,OR cleaning,fallback_specialty_type,150,41
+146,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,41
+147,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-870.a1,OR cleaning,fallback_specialty_type,150,41
+149,Maximum excl. University Clinics,General,inpatient,5-530.32,OR cleaning,fallback_specialty_type,150,41
+6,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,150,43
+8,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,150,43
+9,Maximum excl. University Clinics,Trauma,inpatient,5-793.1n,OR cleaning,fallback_specialty_type,150,43
+10,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,150,43
+13,Maximum excl. University Clinics,General,inpatient,5-536.46,OR cleaning,fallback_specialty_type,150,43
+14,Maximum excl. University Clinics,General,inpatient,5-536.46,OR cleaning,fallback_specialty_type,150,43
+15,Maximum excl. University Clinics,Trauma,inpatient,5-793.k1,OR cleaning,fallback_specialty_type,150,43
+17,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,43
+25,University Clinics,Trauma,inpatient,5-896.1e,OR cleaning,fallback_specialty_type,150,43
+30,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,150,43
+31,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-469.21,OR cleaning,fallback_specialty_type,150,43
+34,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,OR cleaning,fallback_specialty_type,150,43
+37,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,OR cleaning,fallback_specialty_type,150,43
+39,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.32,OR cleaning,fallback_specialty_type,150,43
+40,Maximum excl. University Clinics,Trauma,inpatient,5-790.5f,OR cleaning,fallback_specialty_type,150,43
+41,Maximum excl. University Clinics,Otolaryngology,inpatient,5-403.04,OR cleaning,fallback_specialty_type,150,43
+49,Maximum excl. University Clinics,General,inpatient,5-896.1d,OR cleaning,fallback_specialty_type,150,43
+51,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,150,43
+52,Maximum excl. University Clinics,Trauma,inpatient,5-794.2r,OR cleaning,fallback_specialty_type,150,43
+57,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,150,43
+62,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,OR cleaning,fallback_specialty_type,150,43
+65,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,43
+80,Maximum excl. University Clinics,Otolaryngology,inpatient,5-282.0,OR cleaning,fallback_specialty_type,150,43
+81,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.5,OR cleaning,fallback_specialty_type,150,43
+90,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,43
+92,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,150,43
+94,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.24,OR cleaning,fallback_specialty_type,150,43
+95,Maximum excl. University Clinics,General,inpatient,5-541.0,OR cleaning,fallback_specialty_type,150,43
+96,University Clinics,Trauma,inpatient,5-831.0,OR cleaning,fallback_specialty_type,150,43
+98,Maximum excl. University Clinics,General,inpatient,5-541.2,OR cleaning,fallback_specialty_type,150,43
+101,Maximum excl. University Clinics,Otolaryngology,inpatient,5-209.25,OR cleaning,fallback_specialty_type,150,43
+103,University Clinics,Trauma,inpatient,5-032.00,OR cleaning,fallback_specialty_type,150,43
+104,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,150,43
+107,Maximum excl. University Clinics,General,inpatient,5-399.5,OR cleaning,fallback_specialty_type,150,43
+111,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.03,OR cleaning,fallback_specialty_type,150,43
+112,Maximum excl. University Clinics,General,inpatient,5-541.1,OR cleaning,fallback_specialty_type,150,43
+113,Maximum excl. University Clinics,Trauma,inpatient,5-839.a0,OR cleaning,fallback_specialty_type,150,43
+119,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,43
+122,Maximum excl. University Clinics,Trauma,inpatient,5-839.0,OR cleaning,fallback_specialty_type,150,43
+133,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,43
+136,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.32,OR cleaning,fallback_specialty_type,150,43
+139,Maximum excl. University Clinics,General,inpatient,5-434.51,OR cleaning,fallback_specialty_type,150,43
+144,Basic & Regular,Otolaryngology,inpatient,1-610.2,OR cleaning,fallback_specialty_type,150,43
+148,Maximum excl. University Clinics,General,inpatient,5-063.0,OR cleaning,fallback_specialty_type,150,43
+6,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,OR cleaning,fallback_specialty_type,150,47
+16,Maximum excl. University Clinics,Trauma,inpatient,5-796.k0,OR cleaning,fallback_specialty_type,150,47
+17,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-683.00,OR cleaning,fallback_specialty_type,150,47
+32,Maximum excl. University Clinics,General,inpatient,5-911.0b,OR cleaning,fallback_specialty_type,150,47
+33,Maximum excl. University Clinics,Trauma,inpatient,5-794.af,OR cleaning,fallback_specialty_type,150,47
+35,University Clinics,Trauma,inpatient,5-83b.51,OR cleaning,fallback_specialty_type,150,47
+38,Maximum excl. University Clinics,Trauma,inpatient,5-837.00,OR cleaning,fallback_specialty_type,150,47
+45,Maximum excl. University Clinics,General,inpatient,5-469.21,OR cleaning,fallback_specialty_type,150,47
+49,Maximum excl. University Clinics,Trauma,inpatient,5-794.k6,OR cleaning,fallback_specialty_type,150,47
+57,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,47
+58,Maximum excl. University Clinics,Otolaryngology,inpatient,5-181.9,OR cleaning,fallback_specialty_type,150,47
+63,Maximum excl. University Clinics,Otolaryngology,inpatient,5-195.92,OR cleaning,fallback_specialty_type,150,47
+66,Maximum excl. University Clinics,Trauma,inpatient,5-812.5,OR cleaning,fallback_specialty_type,150,47
+70,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.2,OR cleaning,fallback_specialty_type,150,47
+73,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,OR cleaning,fallback_specialty_type,150,47
+76,Maximum excl. University Clinics,General,inpatient,5-530.31,OR cleaning,fallback_specialty_type,150,47
+83,Maximum excl. University Clinics,Trauma,inpatient,5-794.k1,OR cleaning,fallback_specialty_type,150,47
+86,Maximum excl. University Clinics,Trauma,inpatient,5-820.01,OR cleaning,fallback_specialty_type,150,47
+92,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,1-471.2,OR cleaning,fallback_specialty_type,150,47
+97,Maximum excl. University Clinics,Otolaryngology,inpatient,1-420.1,OR cleaning,fallback_specialty_type,150,47
+101,Maximum excl. University Clinics,Otolaryngology,inpatient,5-282.0,OR cleaning,fallback_specialty_type,150,47
+102,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,OR cleaning,fallback_specialty_type,150,47
+104,Maximum excl. University Clinics,Trauma,inpatient,5-822.g1,OR cleaning,fallback_specialty_type,150,47
+108,University Clinics,Trauma,inpatient,5-031.02,OR cleaning,fallback_specialty_type,150,47
+110,Basic & Regular,Trauma,inpatient,5-782.BE,AN induction,fallback_loc_specialty_type,150,47
+110,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-in,fallback_loc_specialty_type,150,47
+110,Basic & Regular,Trauma,inpatient,5-782.BE,Incision-to-closure,fallback_loc_specialty_type,150,47
+110,Basic & Regular,Trauma,inpatient,5-782.BE,Surgical Lead-out,fallback_loc_specialty_type,150,47
+110,Basic & Regular,Trauma,inpatient,5-782.BE,AN emergence,fallback_loc_specialty_type,150,47
+111,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,47
+113,University Clinics,Trauma,inpatient,5-813.4,OR cleaning,fallback_specialty_type,150,47
+122,Maximum excl. University Clinics,General,inpatient,5-511.11,OR cleaning,fallback_specialty_type,150,47
+125,Maximum excl. University Clinics,Trauma,inpatient,5-820.41,OR cleaning,fallback_specialty_type,150,47
+131,Maximum excl. University Clinics,General,inpatient,5-530.33,OR cleaning,fallback_specialty_type,150,47
+143,Maximum excl. University Clinics,Otolaryngology,inpatient,5-401.00,OR cleaning,fallback_specialty_type,150,47
+145,University Clinics,General,inpatient,5-916.A3,AN induction,fallback_loc_specialty_type,150,47
+145,University Clinics,General,inpatient,5-916.A3,Surgical Lead-in,fallback_loc_specialty_type,150,47
+145,University Clinics,General,inpatient,5-916.A3,Incision-to-closure,fallback_loc_specialty_type,150,47
+145,University Clinics,General,inpatient,5-916.A3,Surgical Lead-out,fallback_loc_specialty_type,150,47
+145,University Clinics,General,inpatient,5-916.A3,AN emergence,fallback_loc_specialty_type,150,47
+147,University Clinics,Trauma,inpatient,5-032.02,OR cleaning,fallback_specialty_type,150,47

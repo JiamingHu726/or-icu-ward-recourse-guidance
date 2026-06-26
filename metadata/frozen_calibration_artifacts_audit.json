@@ -1,0 +1,15 @@
+{
+  "expected_pools_per_family": 40,
+  "german_pools_publicly_included": 40,
+  "mannino_pools_hash_only": 40,
+  "full_private_artifact_count": 86,
+  "publicly_included_artifact_count": 43,
+  "publicly_withheld_mannino_artifact_count": 43,
+  "raw_workbook_or_archive_files_in_public_release": [],
+  "complete_for_documented_access_policy": true,
+  "notes": [
+    "GermanOR frozen pools are included with CC-BY-4.0 attribution.",
+    "Mannino-derived pools are withheld, not because they are missing, but because explicit redistribution rights were not verified.",
+    "Mannino files are represented by sizes and SHA-256 hashes for regeneration verification."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "score_name": "exact_no_pressure_score",
+  "source": "pr_glns_spiral_or_icu_ward_guidance_mode.py, weights_exact",
+  "components": {
+    "exact_high_deficit": 1500000.0,
+    "exact_volume_deficit": 200000.0,
+    "exact_volume_excess": 20000.0,
+    "exact_blocked": 1000.0,
+    "exact_icu_excess": 250.0,
+    "exact_ward_excess": 2500.0,
+    "exact_peak": 900.0,
+    "exact_violation": 4500.0,
+    "exact_overtime": 8.0
+  },
+  "note": "These weights define the final exact score. The scalar pressure term is excluded from final evaluation."
+}

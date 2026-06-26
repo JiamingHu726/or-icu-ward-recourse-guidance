@@ -1,0 +1,11 @@
+{
+  "source_file": "Surgical_process_data_collection_Germany_2019.xlsx",
+  "case_mix_rows_total": 1685,
+  "case_mix_rows_after_filter": 1470,
+  "case_mix_observations_after_filter": 179889.0,
+  "patient_types": [
+    "inpatient"
+  ],
+  "duration_mode": "full_or",
+  "duration_definition": "AN induction + Surgical Lead-in + Incision-to-closure + Surgical Lead-out + AN emergence"
+}

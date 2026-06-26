@@ -1,0 +1,43 @@
+# Frozen solver and runtime configuration for the public release.
+
+solver:
+  engine: "Gurobi Optimizer via gurobipy"
+  gurobi_runtime_version: "13.0.1"
+  gurobipy_version: "13.0.1"
+  gurobi_build_observed_in_logs: "v13.0.1rc0"
+  observed_platform_log_string: "win64 - Windows 11.0 (22631.2)"
+  log_to_console: false
+
+historical_experiments:
+  threads_parameter: "not explicitly set"
+  thread_selection_mode: "Gurobi automatic thread selection"
+  observed_effective_thread_limit: 16
+  evidence_file: "metadata/solver_log_evidence.md"
+  interpretation: >-
+    Archived production logs state "using up to 16 threads" on a machine with
+    12 physical cores and 16 logical processors. This is an observed automatic
+    limit, not evidence that the historical code explicitly fixed Threads = 16.
+
+reproduction_policy:
+  threads_parameter: 16
+  enforcement_requirement: >-
+    Apply model.Params.Threads = 16 after every gurobipy.Model construction in
+    the release code. An environment variable alone does not configure Gurobi.
+  verification_requirement: >-
+    Retain a rerun solver log showing the thread setting or the corresponding
+    thread-count line.
+
+stage2_execution_repair:
+  time_limit_seconds: 300
+  mip_gap: 0.03
+  objective_mode: volume_first
+  slot_minutes: 30
+  max_or_overtime_minutes: 60
+  high_drop_limit: 0
+  max_total_drop: 2
+
+stage3_transfer_recourse:
+  time_limit_seconds: 300
+  mip_gap: 0.01
+  objective_mode: capacity_first
+  allow_ward_excess: true

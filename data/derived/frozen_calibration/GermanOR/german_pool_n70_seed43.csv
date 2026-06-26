@@ -1,0 +1,71 @@
+pool_id,team,duration_min,duration_mode,german_hospital_loc,german_surgical_specialty,german_patient_type,german_ops_code,german_class_size,an_induction_min,surgical_lead_in_min,incision_to_closure_min,surgical_lead_out_min,an_emergence_min,full_or_process_min,or_cleaning_min,fallback_count_main_components
+1,Gyn & Obstetrics,46.032,full_or,Specialized,Gyn & Obstetrics,inpatient,5-690.0,189.0,2.787,6.594,19.176,3.451,14.025,46.032,6.143,0
+2,General,119.812,full_or,Basic & Regular,General,inpatient,5-511.11,2980.0,5.343,22.382,55.01,2.627,34.449,119.812,12.963,0
+3,General,93.937,full_or,Basic & Regular,General,inpatient,5-465.2,32.0,11.953,12.372,63.462,3.746,2.404,93.937,2.359,0
+4,General,104.596,full_or,University Clinics,General,inpatient,5-511.11,837.0,15.041,44.878,32.837,2.126,9.714,104.596,6.128,0
+5,General,124.72,full_or,Specialized,General,inpatient,5-536.47,427.0,1.964,15.237,87.598,7.473,12.448,124.72,5.22,0
+6,General,144.13,full_or,Maximum excl. University Clinics,General,inpatient,5-434.51,457.0,41.164,23.166,58.746,14.982,6.072,144.13,9.832,0
+7,Trauma,87.746,full_or,Specialized,Trauma,inpatient,5-794.1j,36.0,20.569,18.38,39.852,3.024,5.922,87.746,3.318,0
+8,General,99.971,full_or,Maximum excl. University Clinics,General,inpatient,5-530.31,599.0,6.461,16.893,69.268,6.357,0.993,99.971,11.521,0
+9,Trauma,154.197,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-793.1n,43.0,6.337,14.821,126.089,5.454,1.497,154.197,19.188,0
+10,Trauma,240.135,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,175.0,67.216,40.516,114.27,2.923,15.211,240.135,29.183,0
+11,Otolaryngology,27.102,full_or,University Clinics,Otolaryngology,inpatient,5-300.2,581.0,6.385,2.306,13.405,1.632,3.374,27.102,15.864,0
+12,Otolaryngology,74.114,full_or,University Clinics,Otolaryngology,inpatient,1-610.2,352.0,12.985,20.593,23.56,8.663,8.314,74.114,2.806,0
+13,General,172.176,full_or,Maximum excl. University Clinics,General,inpatient,5-536.46,39.0,17.53,33.615,107.391,3.59,10.05,172.176,0.779,0
+14,General,146.843,full_or,Maximum excl. University Clinics,General,inpatient,5-536.46,39.0,20.773,14.818,105.237,5.472,0.543,146.843,16.085,0
+15,Trauma,195.266,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-793.k1,44.0,20.413,38.42,114.655,4.852,16.926,195.266,11.707,0
+16,General,90.027,full_or,Basic & Regular,General,inpatient,5-061.0,486.0,15.564,30.297,38.14,1.598,4.428,90.027,13.005,0
+17,Gyn & Obstetrics,118.969,full_or,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-682.02,295.0,24.932,11.485,74.434,5.957,2.161,118.969,7.143,0
+18,Otolaryngology,84.759,full_or,University Clinics,Otolaryngology,inpatient,5-285.1,61.0,7.446,28.923,25.705,2.54,20.146,84.759,11.422,0
+19,General,195.582,full_or,University Clinics,General,inpatient,5-511.11,837.0,6.941,28.504,118.479,4.571,37.087,195.582,21.115,0
+20,General,134.343,full_or,Specialized,General,inpatient,5-511.11,4395.0,26.092,8.83,90.054,5.317,4.049,134.343,14.703,0
+21,General,170.094,full_or,Specialized,General,inpatient,5-401.b,48.0,8.683,17.427,73.75,5.433,64.801,170.094,17.053,0
+22,Otolaryngology,45.845,full_or,University Clinics,Otolaryngology,inpatient,5-281.5,326.0,4.313,7.464,25.642,2.581,5.845,45.845,4.17,0
+23,General,72.819,full_or,Specialized,General,inpatient,5-545.0,118.0,9.759,17.569,26.498,10.013,8.981,72.819,12.527,0
+24,Otolaryngology,95.411,full_or,University Clinics,Otolaryngology,inpatient,5-281.0,660.0,15.348,19.484,39.553,4.226,16.801,95.411,7.835,0
+25,Trauma,59.118,full_or,University Clinics,Trauma,inpatient,5-896.1e,73.0,7.252,22.16,12.94,13.409,3.356,59.118,14.175,0
+26,General,96.419,full_or,Basic & Regular,General,inpatient,5-511.11,2980.0,6.353,18.06,62.063,3.447,6.496,96.419,10.106,0
+27,Gyn & Obstetrics,64.52,full_or,Basic & Regular,Gyn & Obstetrics,inpatient,5-749.0,117.0,8.186,3.264,39.675,9.79,3.605,64.52,8.351,0
+28,Trauma,194.538,full_or,Specialized,Trauma,inpatient,5-794.kh,40.0,20.761,32.621,125.538,9.279,6.339,194.538,20.203,0
+29,Gyn & Obstetrics,121.431,full_or,Basic & Regular,Gyn & Obstetrics,inpatient,5-872.1,147.0,6.994,16.676,88.949,3.116,5.696,121.431,32.364,0
+30,Otolaryngology,57.312,full_or,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.2,591.0,11.132,14.409,9.489,1.785,20.497,57.312,9.169,0
+31,Gyn & Obstetrics,86.885,full_or,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-469.21,107.0,12.367,28.747,32.064,2.82,10.886,86.885,15.902,0
+32,General,71.496,full_or,Specialized,General,inpatient,5-511.11,4395.0,4.792,8.754,41.793,2.841,13.317,71.496,5.669,0
+33,General,92.885,full_or,Basic & Regular,General,inpatient,5-530.31,2194.0,16.739,24.096,40.988,7.769,3.292,92.885,15.069,0
+34,Trauma,191.552,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-824.21,175.0,23.014,37.82,113.765,5.749,11.203,191.552,10.198,0
+35,General,66.52,full_or,Specialized,General,inpatient,5-530.1,37.0,11.472,14.387,32.185,3.33,5.146,66.52,19.238,0
+36,Gyn & Obstetrics,71.08,full_or,Basic & Regular,Gyn & Obstetrics,inpatient,5-749.10,448.0,5.625,7.771,48.682,2.507,6.496,71.08,27.707,0
+37,Otolaryngology,56.367,full_or,Maximum excl. University Clinics,Otolaryngology,inpatient,1-610.0,459.0,7.251,1.255,32.42,5.109,10.332,56.367,20.084,0
+38,General,146.677,full_or,Specialized,General,inpatient,5-465.1,443.0,19.524,9.731,86.33,2.925,28.166,146.677,20.682,0
+39,Gyn & Obstetrics,100.521,full_or,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-653.32,458.0,7.169,25.149,63.964,2.452,1.787,100.521,7.622,0
+40,Trauma,100.772,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-790.5f,252.0,9.102,8.24,48.409,9.159,25.862,100.772,11.354,0
+41,Otolaryngology,217.876,full_or,Maximum excl. University Clinics,Otolaryngology,inpatient,5-403.04,30.0,3.162,20.413,177.058,4.706,12.537,217.876,5.411,0
+42,Gyn & Obstetrics,53.488,full_or,Basic & Regular,Gyn & Obstetrics,inpatient,1-672,452.0,2.456,11.708,10.256,12.751,16.316,53.488,19.357,0
+43,General,156.449,full_or,Specialized,General,inpatient,5-536.47,427.0,10.747,10.918,123.737,3.872,7.176,156.449,16.722,0
+44,General,234.006,full_or,Basic & Regular,General,inpatient,5-536.0,31.0,17.019,11.244,198.074,6.727,0.942,234.006,11.984,0
+45,General,71.609,full_or,Specialized,General,inpatient,5-534.31,168.0,5.94,11.098,49.554,3.484,1.534,71.609,4.038,0
+46,General,45.061,full_or,Basic & Regular,General,inpatient,5-894.06,31.0,2.337,9.602,12.41,6.335,14.377,45.061,9.966,0
+47,General,100.782,full_or,Specialized,General,inpatient,5-511.11,4395.0,25.257,11.287,42.967,4.15,17.122,100.782,6.378,0
+48,General,125.236,full_or,University Clinics,General,inpatient,5-541.0,233.0,15.045,46.466,48.445,2.892,12.387,125.236,31.779,0
+49,General,49.271,full_or,Maximum excl. University Clinics,General,inpatient,5-896.1d,65.0,11.45,10.751,18.908,6.008,2.154,49.271,43.793,0
+50,General,52.236,full_or,Basic & Regular,General,inpatient,5-892.0c,33.0,4.443,17.286,24.481,3.888,2.136,52.236,11.645,0
+51,Gyn & Obstetrics,77.937,full_or,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-740.0,384.0,19.376,8.004,30.367,1.483,18.707,77.937,4.626,0
+52,Trauma,147.792,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-794.2r,170.0,10.01,43.074,80.143,5.674,8.891,147.792,5.871,0
+53,Gyn & Obstetrics,50.578,full_or,Specialized,Gyn & Obstetrics,inpatient,1-661,38.0,9.461,12.928,21.331,1.433,5.424,50.578,20.435,0
+54,Trauma,90.697,full_or,Basic & Regular,Trauma,inpatient,5-793.kr,60.0,12.829,26.654,44.546,3.722,2.946,90.697,9.92,0
+55,General,151.926,full_or,Basic & Regular,General,inpatient,5-061.0,486.0,13.739,28.824,94.992,5.056,9.314,151.926,14.255,0
+56,General,329.689,full_or,University Clinics,General,inpatient,5-524.2,320.0,34.504,21.457,265.534,5.795,2.399,329.689,13.639,0
+57,Trauma,178.743,full_or,Maximum excl. University Clinics,Trauma,inpatient,5-83b.51,158.0,16.239,36.536,117.359,3.087,5.521,178.743,22.369,0
+58,General,96.461,full_or,Specialized,General,inpatient,5-530.33,797.0,8.882,23.202,59.321,1.923,3.133,96.461,9.346,0
+59,Trauma,169.466,full_or,Specialized,Trauma,inpatient,5-984,196.0,10.836,18.15,135.91,2.864,1.705,169.466,12.198,0
+60,Trauma,101.33,full_or,Specialized,Trauma,inpatient,5-795.k0,50.0,7.97,42.075,39.573,9.173,2.539,101.33,9.062,0
+61,Gyn & Obstetrics,59.956,full_or,University Clinics,Gyn & Obstetrics,inpatient,1-672,147.0,3.735,22.459,21.771,4.09,7.9,59.956,8.606,0
+62,Gyn & Obstetrics,77.06,full_or,Maximum excl. University Clinics,Gyn & Obstetrics,inpatient,5-749.0,237.0,17.456,10.518,44.884,2.524,1.678,77.06,20.799,0
+63,Trauma,143.449,full_or,Basic & Regular,Trauma,inpatient,5-824.21,292.0,10.21,21.405,105.286,1.875,4.673,143.449,9.463,0
+64,General,57.437,full_or,Basic & Regular,General,inpatient,5-399.5,405.0,5.737,11.075,37.093,0.974,2.558,57.437,6.689,0
+65,Otolaryngology,47.599,full_or,Maximum excl. University Clinics,Otolaryngology,inpatient,5-281.0,950.0,10.247,5.443,26.93,1.063,3.915,47.599,6.382,0
+66,General,47.964,full_or,Specialized,General,inpatient,5-916.a3,227.0,6.705,14.884,16.297,7.091,2.987,47.964,34.045,0
+67,General,97.489,full_or,Specialized,General,inpatient,5-530.32,1222.0,8.281,14.07,59.019,10.062,6.058,97.489,15.237,0
+68,Gyn & Obstetrics,69.25,full_or,University Clinics,Gyn & Obstetrics,inpatient,5-870.a0,302.0,10.663,23.301,31.507,2.239,1.54,69.25,8.927,0
+69,General,173.939,full_or,University Clinics,General,inpatient,5-469.21,105.0,3.708,39.126,121.181,6.72,3.204,173.939,45.389,0
+70,General,244.301,full_or,Specialized,General,inpatient,5-455.45,307.0,11.2,22.355,195.659,7.293,7.794,244.301,7.824,0

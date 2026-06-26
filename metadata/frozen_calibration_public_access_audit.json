@@ -1,0 +1,47 @@
+{
+  "policy": "conservative_public_release",
+  "germanOR": {
+    "frozen_artifacts_included": 43,
+    "expected_seeded_pools": 40,
+    "inclusion_basis": "upstream Zenodo record is CC-BY-4.0"
+  },
+  "mannino": {
+    "frozen_artifacts_excluded": 43,
+    "expected_seeded_pools": 40,
+    "exclusion_basis": "SINTEF page provides research-community access but no explicit redistribution or sublicensing licence was identified. Derived duration pools are therefore withheld pending written permission.",
+    "public_replacement": "metadata/mannino_derived_pool_hash_manifest.csv"
+  },
+  "original_full_private_audit": {
+    "expected_sizes": [
+      50,
+      70,
+      100,
+      150
+    ],
+    "expected_seeds": [
+      7,
+      11,
+      19,
+      23,
+      29,
+      31,
+      37,
+      41,
+      43,
+      47
+    ],
+    "expected_pools_per_family": 40,
+    "german_pools_found": 40,
+    "mannino_pools_found": 40,
+    "missing_german_pools": [],
+    "missing_mannino_pools": [],
+    "artifact_count": 86,
+    "complete": true,
+    "raw_workbook_or_archive_files_detected": [],
+    "notes": [
+      "This audit scans the final merged output folder.",
+      "A complete result requires 40 seeded pools per family.",
+      "Raw Mannino workbook files should not appear here unless reuse terms are verified."
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+# Publication settings supporting the final load-regime manuscript.
+study:
+  candidate_pool_sizes: [50, 70, 100, 150]
+  base_seeds: [7, 11, 19, 23, 29, 31, 37, 41, 43, 47]
+  primary_scenarios: [nominal, transfer_bottleneck]
+  sensitivity_scenarios: [ward_pressure]
+  inferential_unit: base_seed_cluster
+  exact_final_evaluation: exact_no_pressure_score
+
+main_guided_vs_control:
+  guidance_mode_control: off
+  guidance_mode_treatment: price
+  lns_seed: 202706
+  cycles: 6
+  proposals_per_cycle: 80
+  total_candidate_proposals: 480
+  elite_pool_size: 16
+  initial_neighborhood_radius_days: 2
+  adaptive_radius_rule: "radius = min(planning_horizon, 1 + cycle)"
+  large_perturbation_trigger: "every max(10, exact_every // 2) proposals"
+  exact_every_proposals: 25
+  exact_top_k: 3
+  max_or_overtime_minutes: 180
+  transfer_recourse_time_limit_seconds: 300
+  transfer_recourse_mip_gap: 0.01
+  transfer_recourse_objective_mode: capacity_first
+  allow_ward_excess: true
+  wallclock_limit_seconds: 0
+  final_selection: lowest exact no-pressure score among elite candidates
+
+scalar_pricing_calibration:
+  datasets: [GermanOR, Mannino]
+  price_multipliers: [0.0, 0.25, 0.5, 1.0, 2.0]
+  cycles: 6
+  proposals_per_cycle: 80
+  total_candidate_proposals: 480
+  exact_every_proposals: 20
+  exact_top_k: 5
+  comparison: "each positive price arm versus matched price_cal_w0"
+  schedule_identity_audit: metadata/price_arm_schedule_equality.csv

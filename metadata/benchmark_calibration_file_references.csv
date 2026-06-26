@@ -1,0 +1,24 @@
+referencing_script,referenced_file_literal,release_action
+batch_generate_german_publication_instances.py,german_batch_instance_index.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_german_publication_instances.py,german_instance_metadata.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_german_publication_instances.py,german_pool_n{n}_seed{seed}.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_german_publication_instances.py,sanity_report.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_mannino_publication_instances.py,mannino_batch_instance_index.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_mannino_publication_instances.py,mannino_instance_metadata.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_mannino_publication_instances.py,mannino_pool_n{n}_seed{seed}.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+batch_generate_mannino_publication_instances.py,sanity_report.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+build_calibration_source_table.py,Common semi-synthetic benchmark generator; exact source stats retained in type_stats.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+build_calibration_source_table.py,calibration_source_traceability.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_german_or_patient_pool.py,Surgical_process_data_collection_Germany_2019.xlsx,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_german_or_patient_pool.py,german_pool_fallback_log.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_german_or_patient_pool.py,german_pool_generation_metadata.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_german_or_patient_pool.py,german_pool_index.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_german_or_patient_pool.py,german_pool_n{n}_seed{seed}.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_mannino_stats.py,Path to mssadjustssurgerydata.xls or converted .xlsx,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_mannino_stats.py,Unsupported file type: {suffix}. Use .xls or .xlsx,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_mannino_stats.py,mannino_case_pool.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_mannino_stats.py,mannino_duration_stats.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+prepare_mannino_stats.py,mannino_duration_summary.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+shehadeh_style_benchmark_generator_v3.py,costs.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+shehadeh_style_benchmark_generator_v3.py,metadata.json,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
+shehadeh_style_benchmark_generator_v3.py,{key}.csv,Review manually: deposit only frozen calibration/config artifacts that may be shared; do not copy restricted raw third-party data.
