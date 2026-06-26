@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software or reproducibility package, please cite the associated article and this archived release."
 title: "OR--ICU--Ward Recourse Guidance Reproducibility Package"
-version: "1.0.0"
+version: "1.0.2"
 type: software
 abstract: "Code, configurations, derived results, and reproducibility audits supporting the manuscript 'When Does Downstream Recourse Guidance Improve Surgical Planning? Evidence Across Candidate-Pool Load Regimes'."
 keywords:
@@ -17,7 +17,7 @@ keywords:
   authors:
 * given-names: Jiaming
   family-names: Hu
-  affiliation: School of Information Engineering, Shandong Management University
+  affiliation: Center for Combinatorics and LPMC, Nankai University
 * given-names: Cuixia
   family-names: Miao
   affiliation: School of Mathematical Sciences, Qufu Normal University
