@@ -1,27 +1,26 @@
 {
-  "title": "OR--ICU--Ward Recourse Guidance Reproducibility Package",
-  "description": "Code, configurations, derived results, source-provenance records, and schedule-identity audits supporting the manuscript \"When Does Downstream Recourse Guidance Improve Surgical Planning? Evidence Across Candidate-Pool Load Regimes\".",
-  "creators": [{
-      "name": "Hu, Jiaming",
-      "affiliation": "School of Information Engineering, Shandong Management University"
-      "orcid": "0000-0001-5275-1234"
-                },
-                {
-      "name": "Miao, Cuixia",
-      "affiliation": "School of Mathematical Sciences, Qufu Normal University"
-              }],
-  "keywords": [
-    "operating room scheduling",
-    "intensive care unit",
-    "ward capacity",
-    "transfer blocking",
-    "large neighborhood search",
-    "reproducibility"
-  ],
-  "version": "1.0.0",
-  "upload_type": "software",
-  "access_right": "open",
-  "license": "BSD-3-Clause",
-  "language": "eng",
-  "notes": "This release reproduces the final M1--M3 figures, baseline-load validation, fixed-schedule score-weight sensitivity analysis, and scalar-pricing schedule-identity audit. Mannino raw data and derived pools are not redistributed; deterministic preprocessing instructions and SHA-256 verification manifests are included."
+"title": "OR--ICU--Ward Recourse Guidance Reproducibility Package",
+"description": "Code, configurations, derived results, source-provenance records, selected-schedule hash audits, and figure-generation scripts supporting the manuscript "When Does Downstream Recourse Guidance Improve Surgical Planning? Evidence Across Candidate-Pool Load Regimes".",
+"creators": [
+{
+"name": "Hu, Jiaming",
+"affiliation": "School of Information Engineering, Shandong Management University"
+},
+{
+"name": "Miao, Cuixia",
+"affiliation": "School of Mathematical Sciences, Qufu Normal University"
+}
+],
+"keywords": [
+"operating room scheduling",
+"intensive care unit",
+"ward capacity",
+"transfer blocking",
+"large neighborhood search",
+"healthcare operations",
+"reproducibility"
+],
+"version": "1.0.2",
+"upload_type": "software",
+"access_right": "open"
 }
