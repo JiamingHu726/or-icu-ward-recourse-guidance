@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and this archived release."
+title: "OR--ICU--Ward Recourse Guidance Reproducibility Package"
+version: "0.9.0-staging"
+type: software
+abstract: "Code, configurations, derived results, and reproducibility audits supporting the manuscript 'When Does Downstream Recourse Guidance Improve Surgical Planning? Evidence Across Candidate-Pool Load Regimes'."
+keywords:
+  - operating room scheduling
+  - intensive care unit
+  - ward capacity
+  - transfer blocking
+  - large neighborhood search
+license: BSD-3-Clause
+repository-code: "https://github.com/REPLACE_WITH_OWNER/or-icu-ward-recourse-guidance"
+# Add final author list and date-released before public archival release.

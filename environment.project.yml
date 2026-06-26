@@ -1,0 +1,22 @@
+name: or-icu-ward-recourse
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.7
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - matplotlib=3.9.2
+  - scipy=1.13.1
+  - pyyaml=6.0.1
+  - openpyxl=3.1.5
+  - psutil=7.0.0
+  - pip
+  - pip:
+      - gurobipy==13.0.1
+      - xlrd==2.0.2
+
+# Curated executable environment for the released OR--ICU--ward code.
+# It intentionally excludes Torch/CUDA/Jupyter/IDE packages present in the
+# original Anaconda base environment, because the archived research runners do
+# not import them.

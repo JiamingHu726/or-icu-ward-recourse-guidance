@@ -1,0 +1,25 @@
+# Private, local, and generated material
+*.lic
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+*.tmp
+*.bak
+*.log
+
+# Raw/restricted source data and large raw outputs
+results/raw/
+data/raw/
+data/derived/frozen_calibration/Mannino/
+data/restricted/Mannino/*.csv
+*.xls
+*.xlsx
+gurobi.lic
+
+# Local environment dumps and machine-specific files
+metadata/runtime_manifest.local.json
+metadata/pip_freeze.txt
+pip_freeze.txt
+.DS_Store
+Thumbs.db

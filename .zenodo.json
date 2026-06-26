@@ -1,0 +1,17 @@
+{
+  "title": "OR--ICU--Ward Recourse Guidance Reproducibility Package",
+  "description": "Code, configurations, derived results, source-provenance records, and schedule-identity audits supporting the manuscript \"When Does Downstream Recourse Guidance Improve Surgical Planning? Evidence Across Candidate-Pool Load Regimes\".",
+  "creators": [],
+  "keywords": [
+    "operating room scheduling",
+    "intensive care unit",
+    "ward capacity",
+    "transfer blocking",
+    "large neighborhood search",
+    "reproducibility"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "BSD-3-Clause",
+  "notes": "Staging metadata: add final creators and archive DOI before public release."
+}
