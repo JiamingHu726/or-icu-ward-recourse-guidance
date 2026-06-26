@@ -8,7 +8,15 @@ It contains the final figure-generation code, derived result tables, source-prov
 
 ## Release status
 
-This is a **v0.9.0 staging release candidate**. It is designed for a private GitHub review before a public archival release. Author metadata, a public repository URL, and a Zenodo version DOI remain intentionally unset. Run `python scripts/check_release.py --public` only after those items are completed.
+This repository is prepared for public archival release `v1.0.0`.
+
+* Repository: https://github.com/JiamingHu726/or-icu-ward-recourse-guidance
+* Intended archival platform: Zenodo
+* License: BSD 3-Clause License
+* Public release status: pending final metadata review and Zenodo archival DOI
+
+The repository will be made public immediately before the archival release and formal manuscript submission. The Zenodo version DOI will be added after the `v1.0.0` archive is created.
+
 
 ## Scope of reproducibility
 
