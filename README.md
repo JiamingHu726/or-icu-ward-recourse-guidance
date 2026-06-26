@@ -15,7 +15,7 @@ This repository is prepared for public archival release `v1.0.0`.
 * License: BSD 3-Clause License
 * Public release status: pending final metadata review and Zenodo archival DOI
 
-The repository will be made public immediately before the archival release and formal manuscript submission. The Zenodo version DOI will be added after the `v1.0.0` archive is created.
+The repository will be made public immediately before the archival release and formal manuscript submission. The Zenodo version DOI: 10.5281/zenodo.20892041.
 
 
 ## Scope of reproducibility
