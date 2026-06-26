@@ -1,0 +1,13 @@
+family,n,blocked_transfer_days,peak_blocked,icu_excess_bed_days,execution_violations
+GermanOR,50,126.75,33.75,193.00,9.75
+GermanOR,70,141.75,38.25,235.75,31.50
+GermanOR,100,217.25,56.50,331.00,32.50
+GermanOR,150,274.75,63.75,358.50,69.00
+Mannino,50,125.50,32.00,193.75,4.00
+Mannino,70,157.50,40.25,248.75,22.50
+Mannino,100,224.25,61.00,346.00,32.50
+Mannino,150,297.75,72.25,411.00,56.00
+Synthetic,50,90.00,20.25,131.75,25.50
+Synthetic,70,113.50,24.75,159.25,39.50
+Synthetic,100,150.00,35.00,198.50,88.00
+Synthetic,150,182.00,40.75,233.75,195.75

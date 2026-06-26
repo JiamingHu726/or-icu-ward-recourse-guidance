@@ -1,0 +1,9 @@
+dataset,n,control_alignment_gap,definition,status
+GermanOR,50,0.0,matched zero-intervention control score minus reference control score,verified_zero
+GermanOR,70,0.0,matched zero-intervention control score minus reference control score,verified_zero
+GermanOR,100,0.0,matched zero-intervention control score minus reference control score,verified_zero
+GermanOR,150,0.0,matched zero-intervention control score minus reference control score,verified_zero
+Mannino,50,0.0,matched zero-intervention control score minus reference control score,verified_zero
+Mannino,70,0.0,matched zero-intervention control score minus reference control score,verified_zero
+Mannino,100,0.0,matched zero-intervention control score minus reference control score,verified_zero
+Mannino,150,0.0,matched zero-intervention control score minus reference control score,verified_zero

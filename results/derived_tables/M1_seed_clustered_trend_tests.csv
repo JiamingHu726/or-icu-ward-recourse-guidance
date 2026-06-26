@@ -1,0 +1,4 @@
+dataset,n_seed_clusters,n_levels,page_statistic,page_p_one_sided,page_method,positive_seed_level_linear_slopes,negative_or_zero_seed_level_linear_slopes
+GermanOR,10,50|70|100|150,288.0,2.9660017358174453e-06,exact permutation,10,0
+Mannino,10,50|70|100|150,295.0,1.9599427997043415e-09,exact permutation,10,0
+Synthetic,10,50|70|100|150,254.0,0.3526135225720674,exact permutation,5,5

@@ -1,0 +1,13 @@
+weight_setting,family,median_seed_clustered_gap,positive_seed_clusters,total_seed_clusters
+Base weights,GermanOR,158109.022,10,10
+Base weights,Mannino,97886.180,9,10
+0.5 w_H,GermanOR,158109.022,10,10
+0.5 w_H,Mannino,97886.180,9,10
+2 w_H,GermanOR,158109.022,10,10
+2 w_H,Mannino,97886.180,9,10
+0.5 w_D,GermanOR,150868.752,10,10
+0.5 w_D,Mannino,94704.930,9,10
+2 w_D,GermanOR,165959.022,10,10
+2 w_D,Mannino,104248.680,9,10
+0.5 w_D,Synthetic,-20157.360,5,10
+2 w_D,Synthetic,85706.980,6,10
